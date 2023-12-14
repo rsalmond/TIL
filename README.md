@@ -1,5 +1,8 @@
 # Misc shit I stumbled across and found interesting
 
+### Dec 14 2023
+
+There's a blog called [SciFi Interfaces](https://scifiinterfaces.com/) that reviews UI's from cinema. It puts out a yearly award show style round up called ["The Fritzes"](https://scifiinterfaces.com/category/the-fritzes/fritzes-2023/) where they recognize excellence in such categories as "Best Believable" and "Best HUD". Lot's of movies in here I had not heard of at all.
 
 ### Dec 5 2023
 
