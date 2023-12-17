@@ -1,5 +1,9 @@
 # Misc shit I stumbled across and found interesting
 
+### Dec 17 2023
+
+[Chatham Asset Management](https://en.wikipedia.org/wiki/Chatham_Asset_Management), is an American hedge fund which owns [Postmedia](https://en.wikipedia.org/wiki/Postmedia_Network) which owns both [The National Post](https://en.wikipedia.org/wiki/National_Post) and [The Financial Post](https://en.wikipedia.org/wiki/Financial_Post). Chatham Asset Management also owns [RR Donnelly](https://en.wikipedia.org/wiki/RR_Donnelley#) which is an American communications and printing company which acquired the [Canadian Banknote Company](https://en.wikipedia.org/wiki/Canadian_Bank_Note_Company) in 2006. Which means that **the same American compary that prints the National Post also prints Canadian currency and passports**.
+
 ### Dec 14 2023
 
 There's a blog called [SciFi Interfaces](https://scifiinterfaces.com/) that reviews UI's from cinema. It puts out a yearly award show style round up called ["The Fritzes"](https://scifiinterfaces.com/category/the-fritzes/fritzes-2023/) where they recognize excellence in such categories as "Best Believable" and "Best HUD". Lot's of movies in here I had not heard of at all.
