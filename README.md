@@ -2,7 +2,7 @@
 
 ### Dec 17 2023
 
-[Chatham Asset Management](https://en.wikipedia.org/wiki/Chatham_Asset_Management), is an American hedge fund which owns [Postmedia](https://en.wikipedia.org/wiki/Postmedia_Network) which owns both [The National Post](https://en.wikipedia.org/wiki/National_Post) and [The Financial Post](https://en.wikipedia.org/wiki/Financial_Post). Chatham Asset Management also owns [RR Donnelly](https://en.wikipedia.org/wiki/RR_Donnelley#) which is an American communications and printing company which acquired the [Canadian Banknote Company](https://en.wikipedia.org/wiki/Canadian_Bank_Note_Company) in 2006. Which means that **the same American compary that prints the National Post also prints Canadian currency and passports**.
+[Chatham Asset Management](https://en.wikipedia.org/wiki/Chatham_Asset_Management), is an American hedge fund which owns [Postmedia](https://en.wikipedia.org/wiki/Postmedia_Network) which owns both [The National Post](https://en.wikipedia.org/wiki/National_Post) and [The Financial Post](https://en.wikipedia.org/wiki/Financial_Post). Chatham Asset Management also owns [RR Donnelly](https://en.wikipedia.org/wiki/RR_Donnelley#) which is an American communications and printing company which [acquired](https://www.theglobeandmail.com/report-on-business/rr-donnelley-acquires-canadian-bank-note-assets/article4111095/) the [Canadian Banknote Company](https://en.wikipedia.org/wiki/Canadian_Bank_Note_Company) in 2006. Which means that **the same American compary that prints the National Post also prints Canadian currency and passports**.
 
 ### Dec 14 2023
 
