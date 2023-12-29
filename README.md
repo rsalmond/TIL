@@ -1,5 +1,9 @@
 # Misc shit I stumbled across and found interesting
 
+### Dec 29 2023
+
+The government of Alberta hired a company called [aware360](https://aware360.com/) which makes mobile apps to keep tags on employs who are working alone in remote locations to build the "digital overdose response system" or [DORS](https://www.dorsapp.ca/), an app you can fire up before you fire up. It starts a timer when you start using your drug of choice, and if you don't deactivate the app before the time runs out it calls emergency responders to your location.
+
 ### Dec 17 2023
 
 [Chatham Asset Management](https://en.wikipedia.org/wiki/Chatham_Asset_Management), is an American hedge fund which owns [Postmedia](https://en.wikipedia.org/wiki/Postmedia_Network) which owns both [The National Post](https://en.wikipedia.org/wiki/National_Post) and [The Financial Post](https://en.wikipedia.org/wiki/Financial_Post). Chatham Asset Management also owns [RR Donnelly](https://en.wikipedia.org/wiki/RR_Donnelley#) which is an American communications and printing company which [acquired](https://www.theglobeandmail.com/report-on-business/rr-donnelley-acquires-canadian-bank-note-assets/article4111095/) the [Canadian Banknote Company](https://en.wikipedia.org/wiki/Canadian_Bank_Note_Company) in 2006. Which means that **the same American compary that prints the National Post also prints Canadian currency and passports**.
