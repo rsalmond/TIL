@@ -2,7 +2,7 @@
 
 ### Dec 29 2023
 
-The government of Alberta hired a company called [aware360](https://aware360.com/) which makes mobile apps to keep tags on employs who are working alone in remote locations to build the "digital overdose response system" or [DORS](https://www.dorsapp.ca/), an app you can fire up before you fire up. It starts a timer when you start using your drug of choice, and if you don't deactivate the app before the time runs out it calls emergency responders to your location.
+The government of Alberta hired a company called [aware360](https://aware360.com/) which makes mobile apps to keep tags on employees who are working alone in remote locations to build the "digital overdose response system" or [DORS](https://www.dorsapp.ca/), an app you can fire up before you fire up. It starts a timer when you start using your drug of choice, and if you don't deactivate the app before the time runs out it calls emergency responders to your location.
 
 ### Dec 17 2023
 
