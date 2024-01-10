@@ -1,5 +1,11 @@
 # Misc shit I stumbled across and found interesting
 
+### Jan 10 2024
+
+> At this point, there is only one theory we know of that can explain why the same thing happened to girls in so many countries at the same time: the rapid global movement from flip phones (where you can’t do social media) to smartphones and the phone-based childhood...  2012 was the first year that very large numbers of girls in the developed world were spending hours each day posting photos of themselves and scrolling through hundreds of carefully edited photos of other girls. 
+
+https://www.afterbabel.com/p/international-mental-illness-part-one
+
 ### Dec 29 2023
 
 The government of Alberta hired a company called [aware360](https://aware360.com/) which makes mobile apps to keep tags on employees who are working alone in remote locations to build the "digital overdose response system" or [DORS](https://www.dorsapp.ca/), an app you can fire up before you fire up. It starts a timer when you start using your drug of choice, and if you don't deactivate the app before the time runs out it calls emergency responders to your location.
