@@ -4,6 +4,8 @@
 
 > The spatial metaphors we use to describe social relations aren’t just idiosyncratic uses of language, but reflections of how those social relations are structured in our minds.
 
+> In Germany, citizens continue to overestimate distances between cities that were on the other side of what was the Iron Curtain, in comparison with cities on the same side before reunification. Further, these overestimations are greater for citizens with more negative attitudes toward reunification, compared with those of citizens who had positive views. Metaphorical barriers remain standing long after their physical referents are demolished.
+
 https://aeon.co/essays/why-do-other-people-form-imaginary-shapes-in-our-minds
 
 ### Jan 10 2024
