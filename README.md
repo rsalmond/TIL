@@ -1,5 +1,11 @@
 # Misc shit I stumbled across and found interesting
 
+### Jan 19 2024
+
+> The spatial metaphors we use to describe social relations aren’t just idiosyncratic uses of language, but reflections of how those social relations are structured in our minds.
+
+https://aeon.co/essays/why-do-other-people-form-imaginary-shapes-in-our-minds
+
 ### Jan 10 2024
 
 > At this point, there is only one theory we know of that can explain why the same thing happened to girls in so many countries at the same time: the rapid global movement from flip phones (where you can’t do social media) to smartphones and the phone-based childhood...  2012 was the first year that very large numbers of girls in the developed world were spending hours each day posting photos of themselves and scrolling through hundreds of carefully edited photos of other girls. 
