@@ -1,5 +1,9 @@
 # Misc shit I stumbled across and found interesting
 
+### Jan 20 2024
+
+I started by reading [this news blurb](https://interestingengineering.com/science/researchers-map-brain-with-sensor-5-times-thinner-than-hair) about a new type of deep brain probe developed at UCSD which was fine, then followed a link [to UCSD itself](https://today.ucsd.edu/story/transforming-clinical-recording-of-deep-brain-activity-with-a-new-take-on-sensor-manufacturing) to get a bit more detail. But it turns out [the good stuff is in this glossy youtube video](https://youtu.be/FaPVXddg6mE) which is basically a commercial from our surreal cyberpunk present pitching **tomorrows brain probes today**.
+
 ### Jan 19 2024
 
 > The spatial metaphors we use to describe social relations aren’t just idiosyncratic uses of language, but reflections of how those social relations are structured in our minds.
