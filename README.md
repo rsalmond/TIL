@@ -48,3 +48,6 @@ There's a blog called [SciFi Interfaces](https://scifiinterfaces.com/) that revi
 
 Different shells (bash, sh) do [different (and surprising) things](http://mywiki.wooledge.org/BashFAQ/024) when processing a [pipeline](https://www.gnu.org/software/bash/manual/html_node/Pipelines.html). AKA [sometimes a while loop runs in a subshell](https://stackoverflow.com/questions/16854280/a-variable-modified-inside-a-while-loop-is-not-remembered).
 
+### Apr 6 2024
+
+The latin prefixes "cis" and "trans" [mean](https://en.wikipedia.org/wiki/Cis%E2%80%93trans_isomerism) "this side of" and "the other side of" respectively.
