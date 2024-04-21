@@ -10,6 +10,8 @@ Lucent: glowing.
 
 Numinous: having a strong spiritual or divine quality.
 
+Patency: the condition of being open, expanded, or unobstructed.
+
 Sophist: teacher of philosophy in ancient Greece.
 
 Stricture: restriction, rule. A sternly critical remark.
