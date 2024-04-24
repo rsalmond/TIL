@@ -4,6 +4,8 @@ Adduce: to offer as evidence, to cite as proof.
 
 Apodictic: clearly established, beyond dispute.
 
+Diurnal: daily.
+
 Itinerant: someone who alternates between travel/wandering and work.
 
 Lucent: glowing.
