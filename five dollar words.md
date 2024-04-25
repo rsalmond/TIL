@@ -14,6 +14,8 @@ Numinous: having a strong spiritual or divine quality.
 
 Patency: the condition of being open, expanded, or unobstructed.
 
+Predicable: a characteristic which can be attributed to something.
+
 Sophist: teacher of philosophy in ancient Greece.
 
 Stricture: restriction, rule. A sternly critical remark.
