@@ -6,6 +6,8 @@ Apodictic: clearly established, beyond dispute.
 
 Diurnal: daily.
 
+Immanent: inherent. Or: within the limits of possible experience or knowledge (opposite of transcendent).
+
 Itinerant: someone who alternates between travel/wandering and work.
 
 Lucent: glowing.
@@ -20,6 +22,6 @@ Predicable: a characteristic which can be attributed to something.
 
 Sophist: teacher of philosophy in ancient Greece.
 
-Stricture: restriction, rule. A sternly critical remark.
+Stricture: restriction, rule. Or: sternly critical remark.
 
 Vicissitude: change of fortune, typically unwelcome.
