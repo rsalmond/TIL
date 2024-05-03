@@ -6,6 +6,8 @@ Apodictic: clearly established, beyond dispute.
 
 Diurnal: daily.
 
+Exhortatory: strongly encouraging or persuading.
+
 Immanent: inherent. Or: within the limits of possible experience or knowledge (opposite of transcendent).
 
 Itinerant: someone who alternates between travel/wandering and work.
