@@ -20,6 +20,8 @@ Patency: the condition of being open, expanded, or unobstructed.
 
 Peripatetic: travelling from place to place, especially for work.
 
+Perspicuity: lucidity, being clear and easy to understand.
+
 Predicable: a characteristic which can be attributed to something.
 
 Sophist: teacher of philosophy in ancient Greece.
