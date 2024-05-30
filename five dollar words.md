@@ -6,6 +6,10 @@ Apodictic: clearly established, beyond dispute.
 
 Diurnal: daily.
 
+Effete: no longer fertile, having lost vitality, marked by weakness or decadence.
+
+Exegesis: critical explanation or interpretation of a text.
+
 Exhortatory: strongly encouraging or persuading.
 
 Immanent: inherent. Or: within the limits of possible experience or knowledge (opposite of transcendent).
