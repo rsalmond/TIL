@@ -8,6 +8,8 @@ Diurnal: daily.
 
 Effete: no longer fertile, having lost vitality, marked by weakness or decadence.
 
+Eschatology: theological views on the end of the world.
+
 Exegesis: critical explanation or interpretation of a text.
 
 Exhortatory: strongly encouraging or persuading.
@@ -31,5 +33,7 @@ Predicable: a characteristic which can be attributed to something.
 Sophist: teacher of philosophy in ancient Greece.
 
 Stricture: restriction, rule. Or: sternly critical remark.
+
+Syncretism: the practice of combining different beliefs and various schools of thought.
 
 Vicissitude: change of fortune, typically unwelcome.
