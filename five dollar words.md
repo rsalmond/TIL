@@ -32,6 +32,8 @@ Predicable: a characteristic which can be attributed to something.
 
 Sophist: teacher of philosophy in ancient Greece.
 
+Soteriology: the study of the doctrines of salvation.
+
 Stricture: restriction, rule. Or: sternly critical remark.
 
 Syncretism: the practice of combining different beliefs and various schools of thought.
