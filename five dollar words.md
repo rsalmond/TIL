@@ -2,9 +2,13 @@
 
 Adduce: to offer as evidence, to cite as proof.
 
+Afferent: conveying towards the center
+
 Apodictic: clearly established, beyond dispute.
 
 Diurnal: daily.
+
+Efferent: conveying away from the center.
 
 Effete: no longer fertile, having lost vitality, marked by weakness or decadence.
 
