@@ -18,6 +18,8 @@ Exegesis: critical explanation or interpretation of a text.
 
 Exhortatory: strongly encouraging or persuading.
 
+Ex nihilo: from nothing.
+
 Immanent: inherent. Or: within the limits of possible experience or knowledge (opposite of transcendent).
 
 Itinerant: someone who alternates between travel/wandering and work.
