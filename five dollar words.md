@@ -36,6 +36,8 @@ Perspicuity: lucidity, being clear and easy to understand.
 
 Predicable: a characteristic which can be attributed to something.
 
+Promulgate: promote an idea or cause, make it widely known.
+
 Sophist: teacher of philosophy in ancient Greece.
 
 Soteriology: the study of the doctrines of salvation.
