@@ -24,6 +24,8 @@ Immanent: inherent. Or: within the limits of possible experience or knowledge (o
 
 Itinerant: someone who alternates between travel/wandering and work.
 
+Juridical: relating to judicial proceedings and the administration of law.
+
 Lucent: glowing.
 
 Numinous: having a strong spiritual or divine quality.
@@ -36,7 +38,11 @@ Perspicuity: lucidity, being clear and easy to understand.
 
 Predicable: a characteristic which can be attributed to something.
 
+Proleptic: addressing objections before they have been raised.
+
 Promulgate: promote an idea or cause, make it widely known.
+
+Rectitude: morally correct behavour or thinking.
 
 Sophist: teacher of philosophy in ancient Greece.
 
