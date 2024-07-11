@@ -6,21 +6,27 @@ Afferent: conveying towards the center
 
 Apodictic: clearly established, beyond dispute.
 
+Bulwark: strong support or protection, wall-like structure raised for defense.
+
 Diurnal: daily.
 
 Efferent: conveying away from the center.
 
 Effete: no longer fertile, having lost vitality, marked by weakness or decadence.
 
-Eschatology: theological views on the end of the world.
+Eschatology: theological views on death, judgement, the destiny of the soul, and the end of the world.
 
 Exegesis: critical explanation or interpretation of a text.
 
 Exhortatory: strongly encouraging or persuading.
 
+Extramundane: outside or beyond the physical world.
+
 Ex nihilo: from nothing.
 
 Immanent: inherent. Or: within the limits of possible experience or knowledge (opposite of transcendent).
+
+Intransigent: unwilling to change one's mind.
 
 Itinerant: someone who alternates between travel/wandering and work.
 
@@ -31,6 +37,8 @@ Lucent: glowing.
 Numinous: having a strong spiritual or divine quality.
 
 Patency: the condition of being open, expanded, or unobstructed.
+
+Perdititon: hell, damnation.
 
 Peripatetic: travelling from place to place, especially for work.
 
