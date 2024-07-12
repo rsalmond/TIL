@@ -6,7 +6,11 @@ Afferent: conveying towards the center
 
 Apodictic: clearly established, beyond dispute.
 
+Arrogation: to take or claim as one's own without right.
+
 Bulwark: strong support or protection, wall-like structure raised for defense.
+
+Concupiscence: the tendency of humans to sin, strong sexual desire, longing.
 
 Diurnal: daily.
 
@@ -26,6 +30,8 @@ Ex nihilo: from nothing.
 
 Immanent: inherent. Or: within the limits of possible experience or knowledge (opposite of transcendent).
 
+Ineluctable: unable to be resisted or avoided, inescapable.
+
 Intransigent: unwilling to change one's mind.
 
 Itinerant: someone who alternates between travel/wandering and work.
@@ -42,6 +48,8 @@ Perdititon: hell, damnation.
 
 Peripatetic: travelling from place to place, especially for work.
 
+Perspicacity: deep insight, penetrating discernment, shrewdness.
+
 Perspicuity: lucidity, being clear and easy to understand.
 
 Predicable: a characteristic which can be attributed to something.
@@ -52,6 +60,8 @@ Promulgate: promote an idea or cause, make it widely known.
 
 Rectitude: morally correct behavour or thinking.
 
+Riven: split into pieces or factions.
+
 Sophist: teacher of philosophy in ancient Greece.
 
 Soteriology: the study of the doctrines of salvation.
@@ -59,5 +69,7 @@ Soteriology: the study of the doctrines of salvation.
 Stricture: restriction, rule. Or: sternly critical remark.
 
 Syncretism: the practice of combining different beliefs and various schools of thought.
+
+Unstinting: given without restraint, unsparing.
 
 Vicissitude: change of fortune, typically unwelcome.
