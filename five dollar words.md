@@ -38,6 +38,8 @@ Itinerant: someone who alternates between travel/wandering and work.
 
 Juridical: relating to judicial proceedings and the administration of law.
 
+Laity: lay people, as opposed to experts or professionals.
+
 Lucent: glowing.
 
 Numinous: having a strong spiritual or divine quality.
