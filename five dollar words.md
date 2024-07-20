@@ -28,6 +28,8 @@ Extramundane: outside or beyond the physical world.
 
 Ex nihilo: from nothing.
 
+Fideism: "faith-ism", the idea that faith is superior to reason at identifying truth, particularly religious truth.
+
 Immanent: inherent. Or: within the limits of possible experience or knowledge (opposite of transcendent).
 
 Ineluctable: unable to be resisted or avoided, inescapable.
