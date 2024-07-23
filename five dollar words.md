@@ -12,6 +12,8 @@ Bulwark: strong support or protection, wall-like structure raised for defense.
 
 Concupiscence: the tendency of humans to sin, strong sexual desire, longing.
 
+Dead letter: law or treaty that has not been repealed but which is defunct in practice.
+
 Diurnal: daily.
 
 Efferent: conveying away from the center.
@@ -29,6 +31,8 @@ Extramundane: outside or beyond the physical world.
 Ex nihilo: from nothing.
 
 Fideism: "faith-ism", the idea that faith is superior to reason at identifying truth, particularly religious truth.
+
+Heterodox: not conforming with accepted (orthodox) standards or beliefs.
 
 Immanent: inherent. Or: within the limits of possible experience or knowledge (opposite of transcendent).
 
@@ -64,6 +68,8 @@ Promulgate: promote an idea or cause, make it widely known.
 
 Rectitude: morally correct behavour or thinking.
 
+Regnant: ruling, currently having the greatest influence.
+
 Riven: split into pieces or factions.
 
 Sophist: teacher of philosophy in ancient Greece.
@@ -77,3 +83,5 @@ Syncretism: the practice of combining different beliefs and various schools of t
 Unstinting: given without restraint, unsparing.
 
 Vicissitude: change of fortune, typically unwelcome.
+
+Vitiate: spoil or impair the quality of something, destroy the legal validity of something.
