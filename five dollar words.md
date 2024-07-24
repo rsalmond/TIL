@@ -2,6 +2,8 @@
 
 Adduce: to offer as evidence, to cite as proof.
 
+Adumbrate: represent in outline, faintly indicate, foreshadow or symbolize.
+
 Afferent: conveying towards the center
 
 Apodictic: clearly established, beyond dispute.
