@@ -68,6 +68,8 @@ Proleptic: addressing objections before they have been raised.
 
 Promulgate: promote an idea or cause, make it widely known.
 
+Recondite: obscure, abstruse, esoteric.
+
 Rectitude: morally correct behavour or thinking.
 
 Regnant: ruling, currently having the greatest influence.
