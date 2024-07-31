@@ -82,6 +82,8 @@ Soteriology: the study of the doctrines of salvation.
 
 Stricture: restriction, rule. Or: sternly critical remark.
 
+Sublate: deny or negate. Or: assimilate a smaller entity into a larger one.
+
 Syncretism: the practice of combining different beliefs and various schools of thought.
 
 Unstinting: given without restraint, unsparing.
