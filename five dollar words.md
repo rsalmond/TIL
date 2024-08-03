@@ -8,6 +8,8 @@ Afferent: conveying towards the center
 
 Apodictic: clearly established, beyond dispute.
 
+Apperception: perception of the self (Kantian). Or: assimilating a new experience through the lens of ones past experiences.
+
 Arrogation: to take or claim as one's own without right.
 
 Bulwark: strong support or protection, wall-like structure raised for defense.
