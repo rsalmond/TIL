@@ -1,5 +1,7 @@
 ## Just some words I had to look up while reading.
 
+Abjure: solemnly renounce.
+
 Adduce: to offer as evidence, to cite as proof.
 
 Adumbrate: represent in outline, faintly indicate, foreshadow or symbolize.
@@ -65,6 +67,8 @@ Perspicacity: deep insight, penetrating discernment, shrewdness.
 Perspicuity: lucidity, being clear and easy to understand.
 
 Predicable: a characteristic which can be attributed to something.
+
+Profundity: deep insight.
 
 Proleptic: addressing objections before they have been raised.
 
