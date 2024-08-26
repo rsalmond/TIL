@@ -26,6 +26,8 @@ Efferent: conveying away from the center.
 
 Effete: no longer fertile, having lost vitality, marked by weakness or decadence.
 
+Efflorescence: the process of developing, fullness of manifestation.
+
 Eschatology: theological views on death, judgement, the destiny of the soul, and the end of the world.
 
 Exegesis: critical explanation or interpretation of a text.
@@ -43,6 +45,8 @@ Heterodox: not conforming with accepted (orthodox) standards or beliefs.
 Immanent: inherent. Or: within the limits of possible experience or knowledge (opposite of transcendent).
 
 Ineluctable: unable to be resisted or avoided, inescapable.
+
+Internecine: destructive to both sides of a conflict.
 
 Intransigent: unwilling to change one's mind.
 
@@ -74,6 +78,8 @@ Proleptic: addressing objections before they have been raised.
 
 Promulgate: promote an idea or cause, make it widely known.
 
+Protean: having the ability to assume different forms, displaying great diversity.
+
 Recondite: obscure, abstruse, esoteric.
 
 Rectitude: morally correct behavour or thinking.
@@ -81,6 +87,8 @@ Rectitude: morally correct behavour or thinking.
 Regnant: ruling, currently having the greatest influence.
 
 Riven: split into pieces or factions.
+
+Sclerotic: rigid, unresponsive, unable to adapt.
 
 Sophist: teacher of philosophy in ancient Greece.
 
