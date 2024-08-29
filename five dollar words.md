@@ -46,6 +46,8 @@ Immanent: inherent. Or: within the limits of possible experience or knowledge (o
 
 Ineluctable: unable to be resisted or avoided, inescapable.
 
+Insuperable: impossible to overcome.
+
 Internecine: destructive to both sides of a conflict.
 
 Intransigent: unwilling to change one's mind.
