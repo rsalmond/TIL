@@ -60,6 +60,8 @@ Laity: lay people, as opposed to experts or professionals.
 
 Lucent: glowing.
 
+Nominalism: the position that abstract objects (like numbers) do not exist within space and time, leaving only specific objects. Eg. the quality of humanity does not exist apart from individual humans.
+
 Numinous: having a strong spiritual or divine quality.
 
 Patency: the condition of being open, expanded, or unobstructed.
