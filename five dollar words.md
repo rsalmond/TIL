@@ -14,6 +14,8 @@ Apperception: perception of the self (Kantian). Or: assimilating a new experienc
 
 Arrogation: to take or claim as one's own without right.
 
+Augur: portent of things to come.
+
 Bulwark: strong support or protection, wall-like structure raised for defense.
 
 Concupiscence: the tendency of humans to sin, strong sexual desire, longing.
@@ -39,6 +41,8 @@ Extramundane: outside or beyond the physical world.
 Ex nihilo: from nothing.
 
 Fideism: "faith-ism", the idea that faith is superior to reason at identifying truth, particularly religious truth.
+
+Fustian: pompous or pretentious speech or writing.
 
 Heterodox: not conforming with accepted (orthodox) standards or beliefs.
 
@@ -87,6 +91,8 @@ Protean: having the ability to assume different forms, displaying great diversit
 Recondite: obscure, abstruse, esoteric.
 
 Rectitude: morally correct behavour or thinking.
+
+Refractory: stubborn, resistent to stimulus.
 
 Regnant: ruling, currently having the greatest influence.
 
