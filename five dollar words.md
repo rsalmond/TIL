@@ -40,8 +40,6 @@ Extramundane: outside or beyond the physical world.
 
 Ex nihilo: from nothing.
 
-Fideism: "faith-ism", the idea that faith is superior to reason at identifying truth, particularly religious truth.
-
 Fustian: pompous or pretentious speech or writing.
 
 Heterodox: not conforming with accepted (orthodox) standards or beliefs.
@@ -63,8 +61,6 @@ Juridical: relating to judicial proceedings and the administration of law.
 Laity: lay people, as opposed to experts or professionals.
 
 Lucent: glowing.
-
-Nominalism: the position that abstract objects (like numbers) do not exist within space and time, leaving only specific objects. Eg. the quality of humanity does not exist apart from individual humans.
 
 Numinous: having a strong spiritual or divine quality.
 
