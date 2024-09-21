@@ -54,6 +54,8 @@ Internecine: destructive to both sides of a conflict.
 
 Intransigent: unwilling to change one's mind.
 
+Inutile: useless.
+
 Itinerant: someone who alternates between travel/wandering and work.
 
 Juridical: relating to judicial proceedings and the administration of law.
