@@ -42,6 +42,8 @@ Ex nihilo: from nothing.
 
 Fustian: pompous or pretentious speech or writing.
 
+Gelid: icy, extremely cold.
+
 Heterodox: not conforming with accepted (orthodox) standards or beliefs.
 
 Immanent: inherent. Or: within the limits of possible experience or knowledge (opposite of transcendent).
