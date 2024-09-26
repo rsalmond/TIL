@@ -44,6 +44,8 @@ Fustian: pompous or pretentious speech or writing.
 
 Gelid: icy, extremely cold.
 
+Hidebound: unwilling to change because of tradition or convention.
+
 Heterodox: not conforming with accepted (orthodox) standards or beliefs.
 
 Immanent: inherent. Or: within the limits of possible experience or knowledge (opposite of transcendent).
