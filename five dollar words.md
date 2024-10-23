@@ -50,6 +50,8 @@ Heterodox: not conforming with accepted (orthodox) standards or beliefs.
 
 Immanent: inherent. Or: within the limits of possible experience or knowledge (opposite of transcendent).
 
+Impugn: dispute the truth, honesty, or validity of a statement. call into question.
+
 Ineluctable: unable to be resisted or avoided, inescapable.
 
 Insuperable: impossible to overcome.
@@ -93,6 +95,8 @@ Protean: having the ability to assume different forms, displaying great diversit
 Recondite: obscure, abstruse, esoteric.
 
 Rectitude: morally correct behavour or thinking.
+
+Redolent: strongly reminiscent or suggestive of something.
 
 Refractory: stubborn, resistent to stimulus.
 
