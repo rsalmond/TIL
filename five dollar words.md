@@ -84,6 +84,8 @@ Perspicuity: lucidity, being clear and easy to understand.
 
 Predicable: a characteristic which can be attributed to something.
 
+Primogeniture: the right of succession belonging to the first born child.
+
 Profundity: deep insight.
 
 Proleptic: addressing objections before they have been raised.
