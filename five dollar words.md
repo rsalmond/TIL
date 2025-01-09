@@ -108,6 +108,8 @@ Riven: split into pieces or factions.
 
 Sclerotic: rigid, unresponsive, unable to adapt.
 
+Sinecure: a position with a salary that requires little or no work.
+
 Sophist: teacher of philosophy in ancient Greece.
 
 Soteriology: the study of the doctrines of salvation.
