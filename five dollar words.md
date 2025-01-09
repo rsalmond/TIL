@@ -1,4 +1,4 @@
-## Just some words I had to look up while reading.
+5yix ## Just some words I had to look up while reading.
 
 Abjure: solemnly renounce.
 
@@ -75,6 +75,8 @@ Numinous: having a strong spiritual or divine quality.
 Patency: the condition of being open, expanded, or unobstructed.
 
 Perdititon: hell, damnation.
+
+Perfervid: intense and impassioned.
 
 Peripatetic: travelling from place to place, especially for work.
 
