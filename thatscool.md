@@ -2,6 +2,8 @@
 
 ## January 2025
 
+A [stylish, programmable, and open source](https://qrframe.kylezhe.ng/) QR code generator.
+
 An [app](https://github.com/DrewThomasson/ebook2audiobook) to turn an ebook into an audiobook.
 
 An [open source project](https://github.com/nisargjhaveri/WirelessAndroidAutoDongle) that turns a raspberry pi into a wireless android auto adapter.
