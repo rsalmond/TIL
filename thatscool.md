@@ -2,6 +2,8 @@
 
 ## January 2025
 
+A [diagramming tool](https://schem.io/) purpose built for interactive technical systems. It's hard to explain but if you're an SRE you will probably find this exciting. [This video](https://youtu.be/idUW5sYV2oE?si=YfoB1JeRMB71l0oF) helps.
+
 A [stylish, programmable, and open source](https://qrframe.kylezhe.ng/) QR code generator.
 
 An [app](https://github.com/DrewThomasson/ebook2audiobook) to turn an ebook into an audiobook.
