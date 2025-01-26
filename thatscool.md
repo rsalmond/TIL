@@ -2,6 +2,8 @@
 
 ## January 2025
 
+Not sure I completely understand the use case, devops involves lots of Go, Python, and Bash already, but [the risor scripting language](https://risor.io/) definitely rings the "this seems useful" bell in the back of my head.
+
 A [diagramming tool](https://schem.io/) purpose built for interactive technical systems. It's hard to explain but if you're an SRE you will probably find this exciting. [This video](https://youtu.be/idUW5sYV2oE?si=YfoB1JeRMB71l0oF) helps.
 
 A [stylish, programmable, and open source](https://qrframe.kylezhe.ng/) QR code generator.
