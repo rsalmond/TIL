@@ -2,6 +2,8 @@
 
 ## January 2025
 
+The person who created the Caddy webserver seems to have created an all purpose self hosted [personal timeline tool](https://github.com/timelinize/timelinize). You export your data from any number of services (google location history, icloud, strava) and overlay it all onto a contiguous timeline.
+
 Not sure I completely understand the use case, devops involves lots of Go, Python, and Bash already, but [the risor scripting language](https://risor.io/) definitely rings the "this seems useful" bell in the back of my head. Somebody made a [tool](https://github.com/risor-io/risor/discussions/259) that allows you to package a risor script as an executable.
 
 A [diagramming tool](https://schem.io/) purpose built for interactive technical systems. It's hard to explain but if you're an SRE you will probably find this exciting. [This video](https://youtu.be/idUW5sYV2oE?si=YfoB1JeRMB71l0oF) helps.
