@@ -15,3 +15,7 @@
 ## Culture
 
  * The [Jargon File](http://catb.org/jargon/html/)
+
+## Etymology
+
+ * [Boilerplate Code](https://buttondown.com/hillelwayne/archive/why-do-we-call-it-boilerplate-code)
