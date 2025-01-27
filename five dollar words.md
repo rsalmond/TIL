@@ -1,4 +1,4 @@
-5yix ## Just some words I had to look up while reading.
+## Just some words I had to look up while reading.
 
 Abjure: solemnly renounce.
 
@@ -17,6 +17,8 @@ Arrogation: to take or claim as one's own without right.
 Augur: portent of things to come.
 
 Bulwark: strong support or protection, wall-like structure raised for defense.
+
+Casuistry: specious reasoning.
 
 Concupiscence: the tendency of humans to sin, strong sexual desire, longing.
 
