@@ -98,6 +98,8 @@ Promulgate: promote an idea or cause, make it widely known.
 
 Protean: having the ability to assume different forms, displaying great diversity.
 
+Rapproach: establish friendly relations between two opposing groups.
+
 Recondite: obscure, abstruse, esoteric.
 
 Rectitude: morally correct behavour or thinking.
