@@ -2,6 +2,8 @@
 
 ## January 2025
 
+[Streamlink](https://streamlink.github.io/) is a a CLI for playing web videos in VLC.
+
 Cyberpunk IRL - [restofworld.org](https://restofworld.org) is a tech publication that covers everything outside of Western countries. Their [2025 photo contest winners](https://restofworld.org/2025/tech-photography-contest-winners/) has big "the street finds its own uses for things" energy.
 
 The person who created the Caddy webserver seems to have created an all purpose self hosted [personal timeline tool](https://github.com/timelinize/timelinize). You export your data from any number of services (google location history, icloud, strava) and overlay it all onto a contiguous timeline.
