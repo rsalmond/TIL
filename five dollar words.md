@@ -42,6 +42,8 @@ Extramundane: outside or beyond the physical world.
 
 Ex nihilo: from nothing.
 
+Floruit (latin): flourished. Often abbreviated "fl." or "flor." used in historical contexts to indicate the date during which a person was active.
+
 Fustian: pompous or pretentious speech or writing.
 
 Gelid: icy, extremely cold.
