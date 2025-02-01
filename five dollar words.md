@@ -8,6 +8,8 @@ Adumbrate: represent in outline, faintly indicate, foreshadow or symbolize.
 
 Afferent: conveying towards the center
 
+Anxiolytic: a medical intervention which reduces anxiety.
+
 Apodictic: clearly established, beyond dispute.
 
 Apperception: perception of the self (Kantian). Or: assimilating a new experience through the lens of ones past experiences.
