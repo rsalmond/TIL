@@ -16,6 +16,10 @@
 
  * The [Jargon File](http://catb.org/jargon/html/)
 
+## Security
+
+ * A [forty year old report](https://www.tuhs.org/Archive/Documentation/TechReports/Bell_Labs/ReedsShellHoles.pdf) warning about the dangers of setuid way back in the 20th century.
+
 ## Etymology
 
  * [Boilerplate Code](https://buttondown.com/hillelwayne/archive/why-do-we-call-it-boilerplate-code)
