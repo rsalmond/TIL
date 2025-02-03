@@ -2,7 +2,7 @@
 
 ## February 2025
 
-ESP32-BlueJammer is an [open source 2.4ghz jamming device](https://github.com/EmenstaNougat/ESP32-BlueJammer. Because fuck your bluetooth speaker, but also plz don't kill any insulin pump users or anything like that.
+ESP32-BlueJammer is an [open source 2.4ghz jamming device](https://github.com/EmenstaNougat/ESP32-BlueJammer). Because fuck your bluetooth speaker, but also plz don't kill any insulin pump users or anything like that.
 
 ## January 2025
 
