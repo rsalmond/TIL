@@ -16,6 +16,8 @@ The person who created the Caddy webserver seems to have created Timelinize as a
 
 Not sure I completely understand the use case, devops involves lots of Go, Python, and Bash already, but [the risor scripting language](https://risor.io/) definitely rings the "this seems useful" bell in the back of my head. Somebody made a [tool](https://github.com/risor-io/risor/discussions/259) that allows you to package a risor script as an executable.
 
+  * note: after playing with this more I think I am actually the perfect target user for this; somebody who isn't a very capable Go programmer who nonetheless wants to hack stuff together quickly and ship it as a single binary.
+
 Schem.io is a [diagramming tool](https://schem.io/) purpose built for interactive technical systems. It's hard to explain but if you're an SRE you will probably find this exciting. [This video](https://youtu.be/idUW5sYV2oE?si=YfoB1JeRMB71l0oF) helps.
 
 History of the Universe [is my new favourite youtube channel](https://www.youtube.com/@HistoryoftheUniverse). Hardcore physics and cosmology with stunning visuals and compelling narative. It's like if [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g) was a glossy story book.
