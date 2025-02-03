@@ -2,6 +2,8 @@
 
 ## February 2025
 
+Artem Kirsanov is a phenomenal communicator of complex topics. He recently published a stunning three part series on [dynamical systems](https://www.youtube.com/watch?v=vTTlzmCRwU4), the [mathematics of nueronal modeling](https://www.youtube.com/watch?v=zOmhHE2xctw), and the [geometry of neuronal computation](https://www.youtube.com/watch?v=gLtGVEhMFN4).
+
 ESP32-BlueJammer is an [open source 2.4ghz jamming device](https://github.com/EmenstaNougat/ESP32-BlueJammer). Because fuck your bluetooth speaker, but also plz don't kill any insulin pump users or anything like that.
 
 ## January 2025
@@ -15,6 +17,8 @@ The person who created the Caddy webserver seems to have created Timelinize as a
 Not sure I completely understand the use case, devops involves lots of Go, Python, and Bash already, but [the risor scripting language](https://risor.io/) definitely rings the "this seems useful" bell in the back of my head. Somebody made a [tool](https://github.com/risor-io/risor/discussions/259) that allows you to package a risor script as an executable.
 
 Schem.io is a [diagramming tool](https://schem.io/) purpose built for interactive technical systems. It's hard to explain but if you're an SRE you will probably find this exciting. [This video](https://youtu.be/idUW5sYV2oE?si=YfoB1JeRMB71l0oF) helps.
+
+History of the Universe [is my new favourite youtube channel](https://www.youtube.com/@HistoryoftheUniverse). Hardcore physics and cosmology with stunning visuals and compelling narative. It's like if [PBS Space Time](https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g) was a glossy story book.
 
 QRFrame is a [stylish, programmable, and open source](https://qrframe.kylezhe.ng/) QR code generator.
 
