@@ -8,6 +8,8 @@ Adumbrate: represent in outline, faintly indicate, foreshadow or symbolize.
 
 Afferent: conveying towards the center
 
+Afflatus: strong creative impulse, divine inspiration.
+
 Anxiolytic: a medical intervention which reduces anxiety.
 
 Apodictic: clearly established, beyond dispute.
