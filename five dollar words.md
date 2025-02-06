@@ -141,3 +141,5 @@ Unstinting: given without restraint, unsparing.
 Vicissitude: change of fortune, typically unwelcome.
 
 Vitiate: spoil or impair the quality of something, destroy the legal validity of something.
+
+Weltanschauung: worldview.
