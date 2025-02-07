@@ -2,6 +2,8 @@
 
 ## February 2025
 
+In 2004 one of my responsibilities at my very banal sysadmin job for a ~100 person org was care and feeding of a very banal mailserver, specifically trying to keep spam and viruses out of it. I stumbled across pg's essay [a plan for spam](https://www.paulgraham.com/spam.html) which introduced my to bayesian inference. I had no idea what I was looking at, and deeply failed to understand it, but I was absolutely certain that what I was reading was important. I printed out a hard copy of the essay and kept it close by, I would idly flip through it and roll the ideas around in my head. Today is not the first time that I stumbled across [this article about Prodspec and Annealing](https://www.usenix.org/publications/loginonline/prodspec-and-annealing-intent-based-actuation-google-production), the components that drive production orchestration at Google. But every time I stumble across it I feel that same feeling I felt when I read that pg essay. There are important ideas in here.
+
 Artem Kirsanov is a phenomenal communicator of complex topics. He recently published a stunning three part series on [dynamical systems](https://www.youtube.com/watch?v=vTTlzmCRwU4), the [mathematics of nueronal modeling](https://www.youtube.com/watch?v=zOmhHE2xctw), and the [geometry of neuronal computation](https://www.youtube.com/watch?v=gLtGVEhMFN4).
 
 ESP32-BlueJammer is an [open source 2.4ghz jamming device](https://github.com/EmenstaNougat/ESP32-BlueJammer). Because fuck your bluetooth speaker, but also plz don't kill any insulin pump users or anything like that.
