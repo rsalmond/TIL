@@ -74,6 +74,8 @@ Intransigent: unwilling to change one's mind.
 
 Inutile: useless.
 
+Inveterate: long established, chronic.
+
 Itinerant: someone who alternates between travel/wandering and work.
 
 Juridical: relating to judicial proceedings and the administration of law.
