@@ -2,6 +2,8 @@
 
 ## February 2025
 
+One of the first things I did with LLM's when they hit the scene was ask one to provide an interactive fiction / choose your own adventure style text game. It produced a pretty faithful if somewhat banal rendition for me. I suspect LLM's will make NPCs will become a lot more interesting in the near future, games being one of those places where everything is a hallucination anyway so accuracy is less important. In the meantime somebody is experimenting with having an LLM [play through a text adventure game](https://github.com/s-macke/AdventureAI) instead, which tbf falls firmly into [let AI do the dishes](https://xcancel.com/AuthorJMac/status/1773679197631701238) territory but it's interesting. 
+
 [Tmuxp](https://tmuxp.git-pull.com/) is a session manager for tmux. Freeze a tmux session to a file and recreate it simply, edit the file to tweak it, etc. 
 
 [Culprit](https://github.com/creachadair/culprit) is a tool that will do a binary search over a set of git commits, execute an arbitrary command which should probe the source tree for some bad thing (brokenness) and track down the commit that introduced the break.
