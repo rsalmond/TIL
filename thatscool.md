@@ -2,6 +2,8 @@
 
 ## February 2025
 
+Gem5 is certainly not new, but it's new to me and blowing my mind. It's some kind of [arbitrary hardware simulator that let's you emulate random architectures](https://www.gem5.org/) using Python no less. You can do things like pile any number of caches between a CPU of your choosing and RAM and see how performance is impacted. It seems like one of those things that everyone in a small field is well aware of and _nobody_ outside of it has ever heard of.
+
 (Very alpha) dynamic module support for Envoy proxy has [materialized](https://github.com/envoyproxy/dynamic-modules-examples).
 
 TProxy is [a nice looking text based L7 proxy for debugging](https://github.com/kevwan/tproxy). Kinda looks like [tshark](https://tshark.dev) with a few bells and whistles.
