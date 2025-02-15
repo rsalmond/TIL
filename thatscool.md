@@ -2,6 +2,8 @@
 
 ## February 2025
 
+(Very alpha) dynamic module support for Envoy proxy has [materialized](https://github.com/envoyproxy/dynamic-modules-examples).
+
 TProxy is [a nice looking text based L7 proxy for debugging](https://github.com/kevwan/tproxy). Kinda looks like [tshark](https://tshark.dev) with a few bells and whistles.
 
 One of the first things I did with LLM's when they hit the scene was ask one to provide an interactive fiction / choose your own adventure style text game. It produced a pretty faithful if somewhat banal rendition for me. I suspect LLM's will make NPCs will become a lot more interesting in the near future, games being one of those places where everything is a hallucination anyway so accuracy is less important. In the meantime somebody is experimenting with having an LLM [play through a text adventure game](https://github.com/s-macke/AdventureAI) instead, which tbf falls firmly into [let AI do the dishes](https://xcancel.com/AuthorJMac/status/1773679197631701238) territory but it's interesting. 
