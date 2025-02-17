@@ -10,6 +10,8 @@ Afferent: conveying towards the center
 
 Afflatus: strong creative impulse, divine inspiration.
 
+Anomie: instability caused a breakdown of social norms or moral standards.
+
 Anxiolytic: a medical intervention which reduces anxiety.
 
 Apodictic: clearly established, beyond dispute.
