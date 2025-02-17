@@ -2,7 +2,7 @@ Empiricism: the view that knowledge can only be gained, if at all, by experience
 
 Fideism: "faith-ism", the view that faith is superior to reason at identifying truth, particularly religious truth.
 
-Logical Positivism: born of emiricism, a movement which aims to make philosophy as authoritative as physical sciences. Rejects many claims about ethics, theology, metaphisics as "cognitively meaningless" as they cannot be verified by empirical observation.
+Logical Positivism: born of empiricism, a movement which aims to make philosophy as authoritative as physical sciences. Rejects many claims about ethics, theology, metaphysics as "cognitively meaningless" as they cannot be verified by empirical observation.
 
 Nominalism: the view that universals and abstract objects (like number) do not actually exist other than being merely names or labels.
 
