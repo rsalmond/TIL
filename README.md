@@ -1,5 +1,7 @@
 # Misc shit I stumbled across and found interesting
 
+Moved [here](thatscool.md).
+
 ### Jan 25 2024
 
 Plants that move like a venus flytrap or a touch-me-not [can be anesthetized](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6948209/).
