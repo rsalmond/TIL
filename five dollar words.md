@@ -12,6 +12,8 @@ Afflatus: strong creative impulse, divine inspiration.
 
 Aleatory: dependant on chance, or an uncertain outcome.
 
+Allusive: characterized by indirect references.
+
 Anomie: instability caused a breakdown of social norms or moral standards.
 
 Anxiolytic: a medical intervention which reduces anxiety.
