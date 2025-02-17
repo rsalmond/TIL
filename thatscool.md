@@ -2,6 +2,8 @@
 
 ## February 2025
 
+A while back I worked at a company that worked extensively with satellite imagery and during that time I heard a lot about synthetic aperture radar, and though I learned a lot while working there I never really learned how SAR worked. Today on HN [this amazing blog post detailing a DIY SAR drone](https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html) showed up and broke it down for me. The author also has [an older post](https://hforsten.com/synthetic-aperture-radar-imaging.html) which details the basics.
+
 Gem5 is certainly not new, but it's new to me and blowing my mind. It's some kind of [arbitrary hardware simulator that let's you emulate random architectures](https://www.gem5.org/) using Python no less. You can do things like pile any number of caches between a CPU of your choosing and RAM and see how performance is impacted. It seems like one of those things that everyone in a small field is well aware of and _nobody_ outside of it has ever heard of.
 
 (Very alpha) dynamic module support for Envoy proxy has [materialized](https://github.com/envoyproxy/dynamic-modules-examples).
