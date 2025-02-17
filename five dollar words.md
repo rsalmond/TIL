@@ -10,6 +10,8 @@ Afferent: conveying towards the center
 
 Afflatus: strong creative impulse, divine inspiration.
 
+Aleatory: dependant on chance, or an uncertain outcome.
+
 Anomie: instability caused a breakdown of social norms or moral standards.
 
 Anxiolytic: a medical intervention which reduces anxiety.
