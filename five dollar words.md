@@ -118,6 +118,8 @@ Protean: having the ability to assume different forms, displaying great diversit
 
 Rapproach: establish friendly relations between two opposing groups.
 
+Ramify: split into branches or constituent parts.
+
 Recondite: obscure, abstruse, esoteric.
 
 Rectitude: morally correct behavour or thinking.
