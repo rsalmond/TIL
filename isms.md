@@ -1,5 +1,7 @@
 Empiricism: the view that knowledge can only be gained, if at all, by experience.
 
+Epiphenominalism: consciousneses is a byproduct / side effect, it has no causal influence.
+
 Fideism: "faith-ism", the view that faith is superior to reason at identifying truth, particularly religious truth.
 
 Logical Positivism: born of empiricism, a movement which aims to make philosophy as authoritative as physical sciences. Rejects many claims about ethics, theology, metaphysics as "cognitively meaningless" as they cannot be verified by empirical observation.
