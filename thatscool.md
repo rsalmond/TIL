@@ -2,6 +2,8 @@
 
 ## February 2025
 
+The venerable [Soldier of Fortran](https://infosec.exchange/@mainframed767) whose work I've been following since the early days of my career when I hacked on z/OS for a living has [created](https://github.com/mainframed/Hackers-Plymouth) some pretty authentic looking [plymouth bootsplash](https://wiki.archlinux.org/title/Plymouth) screens based on the [customized laptops in Hackers](https://www.youtube.com/watch?v=qiQlZU5oWTQ).
+
 [AncientJames](https://mastodon.social/@ancientjames) hacked up a [DIY volumetric display](https://github.com/AncientJames/multivox) and [played GTA on it](https://www.youtube.com/watch?v=9XWmm2OU4LU).
 
 [kubeletctl](https://github.com/cyberark/kubeletctl/tree/master) is a CLI for interacting with the [undocumented kubelet api](https://github.com/kubernetes/community/issues/6016). Useful for doing diabolical k8s security shit.
