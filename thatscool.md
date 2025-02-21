@@ -2,6 +2,8 @@
 
 ## February 2025
 
+[AncientJames](https://mastodon.social/@ancientjames) hacked up a [DIY volumetric display](https://github.com/AncientJames/multivox) and [played GTA on it](https://www.youtube.com/watch?v=9XWmm2OU4LU).
+
 [kubeletctl](https://github.com/cyberark/kubeletctl/tree/master) is a CLI for interacting with the [undocumented kubelet api](https://github.com/kubernetes/community/issues/6016). Useful for doing diabolical k8s security shit.
 
 A while back I worked at a company that worked extensively with satellite imagery and during that time I heard a lot about synthetic aperture radar, and though I learned a lot while working there I never really learned how SAR worked. Today on HN [this amazing blog post detailing a DIY SAR drone](https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html) showed up and broke it down for me. The author also has [an older post](https://hforsten.com/synthetic-aperture-radar-imaging.html) which details the basics.
