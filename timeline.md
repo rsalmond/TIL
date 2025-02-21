@@ -8,6 +8,10 @@
 
 * AKA The Stone Age
 
+### Genus Homo - 2.4mya
+
+* [Homo Habilis](https://en.wikipedia.org/wiki/Homo_habilis)
+
 ### 
 
 ## Middle Paleolithic 300 kya - 50 kya
