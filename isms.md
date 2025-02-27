@@ -11,3 +11,20 @@ Nominalism: the view that universals and abstract objects (like number) do not a
 Positivism: the view that all genuine knowledge is true by definition (positive), that is; facts derived by reason, logic, and sensory experience. Intuition, introspection, and faith are considered meaningless.
 
 Relativism: (at least some) things only have the properties they have in the context of the framework used to assess them (eg. beauty is in the eye of the beholder).
+
+## TODO
+
+materialism
+ - reductionist/emergentist materialism
+ - eliminativst materialism
+idealism
+dualism
+ - substance dualism
+ - hylemorphic dualism
+ - property dualism
+neutral monism
+epiphenomenalism
+panpsychism
+Chalmers’ distinctions between different idealisms
+ - realist vs anti-realist
+ - micro-idealism vs macro-idealism
