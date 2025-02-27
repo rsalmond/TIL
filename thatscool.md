@@ -2,6 +2,8 @@
 
 ## February 2025
 
+[GonzoPi](https://gonzopi.org/) is a DIY 3d printed hackable video camera with a custom storyteller-centric firmware that shoots and edits video, captures story structure and organizes shots into scenes and scenes into films. This is some true hacker shit.
+
 The venerable [Soldier of Fortran](https://infosec.exchange/@mainframed767) whose work I've been following since the early days of my career when I hacked on z/OS for a living has [created](https://github.com/mainframed/Hackers-Plymouth) some pretty authentic looking [plymouth bootsplash](https://wiki.archlinux.org/title/Plymouth) screens based on the [customized laptops in Hackers](https://www.youtube.com/watch?v=qiQlZU5oWTQ).
 
 [AncientJames](https://mastodon.social/@ancientjames) hacked up a [DIY volumetric display](https://github.com/AncientJames/multivox) and [played GTA on it](https://www.youtube.com/watch?v=9XWmm2OU4LU).
