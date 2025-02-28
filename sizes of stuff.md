@@ -6,7 +6,7 @@
 
 # Planck Length
 
-About 1.616255 × 10<sup>-35</sup> meters or about 10−20 times the size of a proton
+About 1.616255 × 10<sup>-35</sup> meters or about 10<sup>−20</sup> times the size of a proton
 
 Distance that light travels in one Planck time, or put another way the speed of light is one Planck length per Planck time.
 
