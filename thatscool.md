@@ -1,5 +1,9 @@
 # Cool Things
 
+## March 2025
+
+[This music sampling breakdown](https://youtu.be/FpaoCUEhZJM) is one of the coolest things I've ever seen. It recreates classic tunes from their constituent parts in a fun hip shaking way!
+
 ## February 2025
 
 [GonzoPi](https://gonzopi.org/) is a DIY 3d printed hackable video camera with a custom storyteller-centric firmware that shoots and edits video, captures story structure and organizes shots into scenes and scenes into films. This is some true hacker shit.
