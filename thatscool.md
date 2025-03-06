@@ -2,6 +2,8 @@
 
 ## March 2025
 
+[PeerAuth](https://ksze.github.io/PeerAuth/) provides cryptographic verification of human beings. Use google authenticator to confirm that you are who you say you are for other people as opposed to just for software.
+
 [This music sampling breakdown](https://youtu.be/FpaoCUEhZJM) is one of the coolest things I've ever seen. It recreates classic tunes from their constituent parts in a fun hip shaking way!
 
 ## February 2025
