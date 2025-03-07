@@ -2,7 +2,7 @@
 
 ## March 2025
 
-A research paper called [Differentiable Logic Cellular Autonoma](https://google-research.github.io/self-organising-systems/difflogic-ca/) can be safely placed in the pile of papers labeled "this feels immensely important but hard to understand". It's basically a method for growing a purpose built CA to achieve some specific goal as opposed to tinkering with the rules of a CA and then studying what falls out of it. Also bonus points for introducing me to [differentiable logic gates](https://arxiv.org/abs/2210.08277) (code [here](https://github.com/Felix-Petersen/difflogic) brief video summary updated ith convolutions [here](https://youtu.be/FKQfMwFZvIE)) which is absolutely mind blowing.
+A research paper called [Differentiable Logic Cellular Autonoma](https://google-research.github.io/self-organising-systems/difflogic-ca/) can be safely placed in the pile of papers labeled "this feels immensely important but hard to understand". It's basically a method for growing a purpose built CA to achieve some specific goal as opposed to tinkering with the rules of a CA and then studying what falls out of it. Also bonus points for introducing me to [differentiable logic gates](https://arxiv.org/abs/2210.08277) (code [here](https://github.com/Felix-Petersen/difflogic) brief video summary updated with convolutions [here](https://youtu.be/FKQfMwFZvIE)) which is absolutely mind blowing.
 
 [PeerAuth](https://ksze.github.io/PeerAuth/) provides cryptographic verification of human beings. Use google authenticator to confirm that you are who you say you are for other people as opposed to just for software.
 
