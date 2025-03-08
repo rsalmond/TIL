@@ -4,6 +4,10 @@
 
 [orders of magnitude](https://en.wikipedia.org/wiki/File:Orders_of_magnitude_(english_annotations).png)
 
+# tl;dr
+
+Shorter Wavelength == Higher Frequency
+
 # Planck Length
 
 About 1.616255 × 10<sup>-35</sup> meters or about 10<sup>−20</sup> times the size of a proton
