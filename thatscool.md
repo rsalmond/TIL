@@ -2,6 +2,8 @@
 
 ## March 2025
 
+Every now and then I stumble across something from the telco world that sorta kinda overlaps with my day to day K8s work, and more often than not it feels like witnessing a traffic accident. I'm horrified, but I simply cannot look away. I hope I never actually try it, but there is a masochistic part of me that wants to [run my own LTE tower](https://open5gs.org/open5gs/docs/tutorial/01-your-first-lte/) with a [custom operator](https://github.com/Gradiant/open5gs-operator) which is of course, a statement dreamed up by the utterly deranged.
+
 A research paper called [Differentiable Logic Cellular Autonoma](https://google-research.github.io/self-organising-systems/difflogic-ca/) can be safely placed in the pile of papers labeled "this feels immensely important but hard to understand". It's basically a method for growing a purpose built CA to achieve some specific goal as opposed to tinkering with the rules of a CA and then studying what falls out of it. Also bonus points for introducing me to [differentiable logic gates](https://arxiv.org/abs/2210.08277) (code [here](https://github.com/Felix-Petersen/difflogic) brief video summary updated with convolutions [here](https://youtu.be/FKQfMwFZvIE)) which is absolutely mind blowing. This method can achieve "beyond a million images of MNIST per second on a single CPU core"!
 
 [PeerAuth](https://ksze.github.io/PeerAuth/) provides cryptographic verification of human beings. Use google authenticator to confirm that you are who you say you are for other people as opposed to just for software.
