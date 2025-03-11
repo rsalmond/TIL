@@ -72,6 +72,8 @@ Impugn: dispute the truth, honesty, or validity of a statement. call into questi
 
 Ineluctable: unable to be resisted or avoided, inescapable.
 
+Inoculate: to introduce something into the mind.
+
 Insuperable: impossible to overcome.
 
 Internecine: destructive to both sides of a conflict.
