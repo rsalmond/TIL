@@ -65,6 +65,9 @@ Theory reductionsim: the idea that a theory does not replace another theory, but
 
  - reductionist/emergentist materialism
  - eliminativst materialism
+ontological realism / antirealism
+mereological universalism
+eliminativism
 idealism
 neutral monism
 panpsychism
