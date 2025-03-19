@@ -47,6 +47,20 @@ Positivism: the view that all genuine knowledge is true by definition (positive)
 
 Relativism: (at least some) things only have the properties they have in the context of the framework used to assess them (eg. beauty is in the eye of the beholder).
 
+---
+
+## Reductionism
+
+The idea that some phenomena can be described as some interactino of simpler phenomena.
+
+Ontological reductionism: reality consists of some number of small parts.
+
+Methodological reductionism: an explanation of phenomena comprised of ever smaller entities.
+
+Theory reductionsim: the idea that a theory does not replace another theory, but reduces it to simpler terms.
+
+
+
 ## TODO
 
  - reductionist/emergentist materialism
