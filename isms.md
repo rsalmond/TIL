@@ -59,7 +59,9 @@ Methodological reductionism: an explanation of phenomena comprised of ever small
 
 Theory reductionsim: the idea that a theory does not replace another theory, but reduces it to simpler terms.
 
+---
 
+Holism: the idea that parts of a system cannot be studied separately from the entire system
 
 ## TODO
 
