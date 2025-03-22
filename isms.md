@@ -67,12 +67,13 @@ Holism: the idea that parts of a system cannot be studied separately from the en
 
  - reductionist/emergentist materialism
  - eliminativst materialism
-ontological realism / antirealism
+naive realism
+- affective realism
+- Chalmers’ distinctions between different idealisms
+  - ontological realism / antirealism
 mereological universalism
 eliminativism
-idealism
 neutral monism
 panpsychism
-Chalmers’ distinctions between different idealisms
- - realist vs anti-realist
- - micro-idealism vs macro-idealism
+idealism
+- micro-idealism vs macro-idealism
