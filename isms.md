@@ -65,6 +65,7 @@ Holism: the idea that parts of a system cannot be studied separately from the en
 
 ## TODO
 
+essentialism
  - reductionist/emergentist materialism
  - eliminativst materialism
 naive realism
