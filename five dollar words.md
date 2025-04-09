@@ -116,6 +116,8 @@ Proleptic: addressing objections before they have been raised.
 
 Promulgate: promote an idea or cause, make it widely known.
 
+Propitious: showing favourable signs, convenient, kindly.
+
 Protean: having the ability to assume different forms, displaying great diversity.
 
 Rapproach: establish friendly relations between two opposing groups.
