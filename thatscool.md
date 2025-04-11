@@ -1,5 +1,9 @@
 # Cool Things
 
+## April 2025
+
+[Synthesia](https://www.synthesiagame.com/) is nearly twenty years old so it counts only as "new to me" but it sure looks cool!
+
 ## March 2025
 
 [Gokrazy](https://gokrazy.org/) is not _quite_ a Go microkernel, but it rhymes. Build your Go program into a bootable image, trim much fat.
