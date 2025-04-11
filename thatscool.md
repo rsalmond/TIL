@@ -2,7 +2,7 @@
 
 ## April 2025
 
-[Synthesia](https://www.synthesiagame.com/) is nearly twenty years old so it counts only as "new to me" but it sure looks cool!
+[Synthesia](https://www.synthesiagame.com/) is nearly twenty years old so it counts only as "new to me" but this "guitar hero for piano" thing sure looks cool!
 
 ## March 2025
 
