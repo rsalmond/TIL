@@ -6,6 +6,8 @@
 
 [inscribed.app](https://github.com/chunrapeepat/inscribed) combines excalidraw with a slideshow / presentation workflow and looks great!
 
+A couple years ago some phycists at MIT worked with visual animators to produce an "as accurate as it can be" visualization of a proton and created [a short documentary](https://youtu.be/e2FrALuacZ4) which shows the evolution of the project.
+
 ## March 2025
 
 [Gokrazy](https://gokrazy.org/) is not _quite_ a Go microkernel, but it rhymes. Build your Go program into a bootable image, trim much fat.
