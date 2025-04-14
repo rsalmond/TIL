@@ -4,6 +4,8 @@
 
 [Synthesia](https://www.synthesiagame.com/) is nearly twenty years old so it counts only as "new to me" but this "guitar hero for piano" thing sure looks cool!
 
+[inscribed.app](https://github.com/chunrapeepat/inscribed) combines excalidraw with a slideshow / presentation workflow and looks great!
+
 ## March 2025
 
 [Gokrazy](https://gokrazy.org/) is not _quite_ a Go microkernel, but it rhymes. Build your Go program into a bootable image, trim much fat.
