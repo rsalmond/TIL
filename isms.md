@@ -63,9 +63,15 @@ Theory reductionsim: the idea that a theory does not replace another theory, but
 
 Holism: the idea that parts of a system cannot be studied separately from the entire system
 
+---
+
+Essentialism: the view that all things have properties which are necessary to their identity (part of their essence). Essentialism is based on sameness (contrast with "population thinking" which is based on variance).  Broadly, essentialism is any philosophy which acknowladges the primacy of essence.
+
+Teleology: view that things are defined by their purpose.
+
 ## TODO
 
-essentialism
+
  - reductionist/emergentist materialism
  - eliminativst materialism
 naive realism
