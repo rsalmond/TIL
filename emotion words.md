@@ -12,11 +12,16 @@ Hygge: a type of close friendship.
 
 ### Dutch
 
+Gezellig (heh-SELL-ick): cozy, comfortable, relaxing togetherness.
 Voorpet: pleasure felt about an event before it takes place.
 
 ### Filipino
 
 Gigil: desire to hug or squeeze something that is unbearably cute.
+
+### Greek
+
+ενοχή - Enohi: major guilt.
 
 ### Ifaluk (Micronesian)
 
