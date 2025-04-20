@@ -17,3 +17,9 @@ Thalamus:
  * VPL: ventral posterolatoral nucleus
  * VPM: ventral posteromedial nucleus
  * ventral intermediate nucleus
+
+---
+
+Default Mode Network
+ - imagination network
+ - self system
