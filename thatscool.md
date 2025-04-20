@@ -2,6 +2,8 @@
 
 ## April 2025
 
+Matterport is a company that hosts 3d scans of places (usually homes for sale / rent) supporting virtual tours. [Matterport-DL](https://github.com/rebane2001/matterport-dl) lets you download those scans.
+
 [Synthesia](https://www.synthesiagame.com/) is nearly twenty years old so it counts only as "new to me" but this "guitar hero for piano" thing sure looks cool!
 
 [inscribed.app](https://github.com/chunrapeepat/inscribed) combines excalidraw with a slideshow / presentation workflow and looks great!
