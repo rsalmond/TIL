@@ -15,6 +15,7 @@
 ## Culture
 
  * The [Jargon File](http://catb.org/jargon/html/)
+ * Stumbled across [this old Atlantic piece](https://www.theatlantic.com/technology/archive/2013/10/computing-power-used-to-be-measured-in-kilo-girls/280633/) which is locked up behind a paywall but the factoid that caught my eye is in the headline. Apparently before we started using FLOPS, when complex calculation was delegated to teams of women who cranked out solutions by hand, computational capacity was quantified in unit called the "kilo-girl".
 
 ## Security
 
