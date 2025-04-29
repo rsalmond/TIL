@@ -19,6 +19,10 @@ Voorpet: pleasure felt about an event before it takes place.
 
 Gigil: desire to hug or squeeze something that is unbearably cute.
 
+### German
+
+Weltschmerz: melancholy and world-weariness (literally: "world pain")
+
 ### Greek
 
 ενοχή - Enohi: major guilt.
