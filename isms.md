@@ -24,7 +24,7 @@ Everything that exists relies on physical elements for its existence. Related to
 
 ### Materialism
 
-Everything including mental states and consciousness are results of material interactions.
+Everything including mental states and consciousness are results of material interactions. (An older term, generally supplanted by "physicalism").
 
 ---
 
