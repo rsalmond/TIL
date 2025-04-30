@@ -1,3 +1,9 @@
+# Teleology: things are defined by their purpose
+# Ontology: the study of being, what is real
+# Epistemology: the study of knowledge, what is knowable
+
+---
+
 # Dualism (AKA mind-body dualism)
 The mental and the physical are fundamentally distinct.
 
@@ -28,7 +34,6 @@ Everything including mental states and consciousness are results of material int
 
 ---
 
-
 Empiricism: the view that knowledge can only be gained, if at all, by experience.
 
 Epiphenominalism: consciousneses is a byproduct / side effect, it has no causal influence.
@@ -41,7 +46,6 @@ Logical Positivism: born of empiricism, a movement which aims to make philosophy
 Nominalism: the view that universals and abstract objects (like numbers) do not actually exist other than being merely names or labels.
 
 ---
-
 
 Positivism: the view that all genuine knowledge is true by definition (positive), that is; facts derived by reason, logic, and sensory experience. Intuition, introspection, and faith are considered meaningless.
 
@@ -67,15 +71,17 @@ Holism: the idea that parts of a system cannot be studied separately from the en
 
 Essentialism: the view that all things have properties which are necessary to their identity (part of their essence). Essentialism is based on sameness (contrast with "population thinking" which is based on variance).  Broadly, essentialism is any philosophy which acknowladges the primacy of essence.
 
-Teleology: view that things are defined by their purpose.
+---
+
+Affective realism: the phenomenon whereby your current affect is integrated into, and informs your experience of reality.
+
 
 ## TODO
 
 
- - reductionist/emergentist materialism
- - eliminativst materialism
-naive realism
-- affective realism
+- reductionist/emergentist materialism
+- eliminativst materialism
+- naive realism
 - Chalmers’ distinctions between different idealisms
   - ontological realism / antirealism
 mereological universalism
