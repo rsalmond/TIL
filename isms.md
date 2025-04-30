@@ -73,7 +73,7 @@ Essentialism: the view that all things have properties which are necessary to th
 
 ---
 
-Affective realism: the phenomenon whereby your current affect is integrated into, and informs your experience of reality.
+Affective realism: the phenomenon whereby a persons affect is integrated into, and informs their experience of reality. One can only ever experience perceptions informed by affect. One cannot "experience" facts.
 
 
 ## TODO
