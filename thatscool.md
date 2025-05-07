@@ -1,5 +1,9 @@
 # Cool Things
 
+## May 2025
+
+[Pepr](https://pepr.dev/) is a bit more NodeJS than I would normally prefer, but as a K8s admission controller it looks a hell of a lot more useful and readable than OPA's Rego.
+
 ## April 2025
 
 Matterport is a company that hosts 3d scans of places (usually homes for sale / rent) supporting virtual tours. [Matterport-DL](https://github.com/rebane2001/matterport-dl) lets you download those scans.
