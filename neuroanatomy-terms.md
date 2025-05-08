@@ -1,7 +1,25 @@
+## Oversimplified Terminology
+
+Note: assumes we're talking humans
+
+* Dorsal -> top
+* Ventral -> bottom
+* Anterior -> front
+* Posterior -> back
+* Medial -> middle (interior)
+* Lateral -> sides
+
+---
+
+### Phrases / Terms
+
 nucleus / nucleus group: localized cluster of neurons, often within a defined region. generally share similar structure, function, and connectivity.
 
 neural circuit: network of interconnected neurons, can span multiple brain regions, often involve multiple nucleus groups.
 
+---
+
+### Areas
 
 ACC:  anterior cingulate cortex
  * sACC: subcallosal ACC
@@ -20,6 +38,34 @@ Thalamus:
 
 ---
 
+### Networks
+
+Salience Network
+- AKA "midcingulo-insular network" (M-CIN)
+- AKA "ventral attention network"
+- Mediates between DMN and Central Executive Network
+  - "stop daydreaming and look around!"
+- composed of
+  - anterior insula
+  - dorsal anterior cingulate cortex (dACC)
+
+Central Executive Network CEN
+- AKA "frontoparietal network" FPN
+- AKA "lateral frontoparietal network" L-FPN
+- composed of
+  - dorsolateral prefrontal cortex dPFC
+    - particularly the middle frontal gyrus
+  - anterior inferior parietal lobule
+  - cingulate gyrus
+
 Default Mode Network
- - imagination network
- - self system
+- AKA "medial frontoparietal network"
+- AKA "default state network"
+- loosely "imagination network"
+- loosely "self system"
+- composed of
+  - dorsal medial prefrontal cortex (dMPFC)
+  - posterior cingulate cortex (PCC)
+  - precuneus
+  - angular gyrus
+
