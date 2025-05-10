@@ -2,6 +2,8 @@
 
 ## May 2025
 
+A while ago I stumbled across [ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) which lets you create your own "TV channels" out of your media collection. Today I discovered [Fieldstation42](https://github.com/shane-mason/FieldStation42) which is a similar project but built to run on a raspberry pi, simulating a set top box experience.
+
 [Pepr](https://pepr.dev/) is a bit more NodeJS than I would normally prefer, but as a K8s admission controller it looks a hell of a lot more useful and readable than OPA's Rego.
 
 ## April 2025
