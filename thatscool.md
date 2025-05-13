@@ -2,6 +2,8 @@
 
 ## May 2025
 
+["The One True Path"](https://www.alephic.com/the-one-true-path) is pretty fuckin bleak, which is decidedly uncool. But it sure is an interesting take. Roughly: ever increasing B2B SaaS is the answer to the Fermi Paradox.
+
 A while ago I stumbled across [ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) which lets you create your own "TV channels" out of your media collection. Today I discovered [Fieldstation42](https://github.com/shane-mason/FieldStation42) which is a similar project but built to run on a raspberry pi, simulating a set top box experience.
 
 [Pepr](https://pepr.dev/) is a bit more NodeJS than I would normally prefer, but as a K8s admission controller it looks a hell of a lot more useful and readable than OPA's Rego.
