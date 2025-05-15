@@ -2,6 +2,8 @@
 
 ## May 2025
 
+[oniux](https://gitlab.torproject.org/tpo/core/oniux) is a CLI which will launch a subprocess inside a network & user namespace wherein the only network access available is through [tor](https://www.torproject.org/).
+
 ["The One True Path"](https://www.alephic.com/the-one-true-path) is pretty fuckin bleak, which is decidedly uncool. But it sure is an interesting take. Roughly: ever increasing B2B SaaS is the answer to the Fermi Paradox.
 
 A while ago I stumbled across [ErsatzTV](https://github.com/ErsatzTV/ErsatzTV) which lets you create your own "TV channels" out of your media collection. Today I discovered [Fieldstation42](https://github.com/shane-mason/FieldStation42) which is a similar project but built to run on a raspberry pi, simulating a set top box experience.
