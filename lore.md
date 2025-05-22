@@ -8,9 +8,15 @@
 
  * [Origin of robots.txt](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando-intro.html) by none other than Charlie Fucking Stross.
 
-### Quirks
+## Quirks
 
  * The [origins of DS_Store](https://www.arno.org/on-the-origins-of-ds-store)
+
+## Semiconductors
+
+I'd heard of William Shockley and the traitorous eight before, but until today I did not know that [the idea for the transistor was put in his head](https://www.chipstrat.com/p/the-long-arc-of-semiconductor-scaling) by Bell Labs president [Mervin Kerry](https://en.wikipedia.org/wiki/Mervin_Kelly). Also, apparently earlier in his career TSMC founder Morris Chiang was working at Sylvania and reading Shockley's book and discovered that a colleague of his who worked on semiconductor fabrication was a drunk so he would follow him to the bar at night, ply him with drinks, and press him for details on the process.
+
+Do things that don't scale I guess?
 
 ## Culture
 
