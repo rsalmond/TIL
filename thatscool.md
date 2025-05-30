@@ -2,6 +2,8 @@
 
 ## May 2025
 
+[Ubicloud](https://github.com/ubicloud/ubicloud) looks like what proxmox could be if it were made by grown ups.
+
 [Koukan](https://github.com/jsbucy/koukan/blob/main/FAQ.md) is a prototype mail transfer agent written by a xoogler named [John Bucy](https://www.linkedin.com/in/john-bucy-b3ba4a4/) who worked on gmail for over a decade. Its designed using an envoyproxy/envoy style filter chain approach and the author is workind towards implementing an Envoy [SMPT->gRPC gateway filter](https://github.com/envoyproxy/envoy/issues/9133).
 
 [Serial Studio](https://serial-studio.github.io/) is a nice looking open source data visualization toolkit.
