@@ -2,6 +2,8 @@
 
 ## May 2025
 
+I've spent a lot of time in my day job creating presentations using markdown -> revealjs and I'm always on the lookout for tool improvements in this ecosystem. Obsidian's revealJS plugin feels extremely half baked to me, and while Quarto feels more like something professionals would use I find the docs to be frustrating. (This part of Quarto is powered by pandoc, go read the pandoc docs, and then go ahead and take a wild guess which mixture of quarto args and pandoc args will combine to produce the result you want). But today I stumbled across [quarkdown](https://github.com/iamgio/quarkdown) which looks extremely compelling, specifically for producing workshops comprised of slides which contain code from external files which are part of the exercise material. Keeping slide content up to date with hands-on lab content is tedious and error prone and Quarkdown appears to solve the problem well.
+
 [Ubicloud](https://github.com/ubicloud/ubicloud) looks like what proxmox could be if it were made by grown ups.
 
 [Koukan](https://github.com/jsbucy/koukan/blob/main/FAQ.md) is a prototype mail transfer agent written by a xoogler named [John Bucy](https://www.linkedin.com/in/john-bucy-b3ba4a4/) who worked on gmail for over a decade. Its designed using an envoyproxy/envoy style filter chain approach and the author is workind towards implementing an Envoy [SMPT->gRPC gateway filter](https://github.com/envoyproxy/envoy/issues/9133).
