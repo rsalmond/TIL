@@ -2,6 +2,9 @@
 # Ontology: the study of being, what is real
 # Epistemology: the study of knowledge, what is knowable
 
+
+### Semiotics: study of symbols and the communication of meaning.
+
 ---
 
 # Dualism (AKA mind-body dualism)
