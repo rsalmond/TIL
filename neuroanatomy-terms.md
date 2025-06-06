@@ -1,15 +1,13 @@
 ## Oversimplified Terminology
 
-Note: assumes we're talking humans
+Note: assumes we're talking human heads.
 
-* Dorsal -> top
-* Ventral -> bottom
-* Anterior -> front
-* Posterior -> back
+* Dorsal / Superior -> top
+* Ventral / Inferior -> bottom
+* Anterior / Rostral -> front (rostral == towards the nose)
+* Posterior / Caudal -> back (rostral == towards the tail)
 * Medial -> middle (interior)
 * Lateral -> sides
-* Rostral -> towards the nose
-* Caudal -> towards the tail
 
 ---
 
