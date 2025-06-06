@@ -8,6 +8,8 @@ Note: assumes we're talking humans
 * Posterior -> back
 * Medial -> middle (interior)
 * Lateral -> sides
+* Rostral -> towards the nose
+* Caudal -> towards the tail
 
 ---
 
