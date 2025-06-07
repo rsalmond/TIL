@@ -28,8 +28,13 @@ MFC: medial frontal contex
  * rMFC: rostral
 
 PFC: prefrontal cortex
+ * mPFC: medial PFC
  * vmPFC: ventral medial
  * rmPFC: rostromedial
+
+PCC: posterior cingulate cortex
+
+Inferior Parietal Lobule
 
 Thalamus:
  * VPL: ventral posterolatoral nucleus
