@@ -56,6 +56,21 @@ One billionth of a meter, 1000 picometers.
 
 # Micrometer (AKA "micron")
 
-One millionth of a meter.
+One millionth of a meter, one thousandth of a millimeter.
 
 10<sup>-6</sup> meters.
+
+# Millimeter
+
+One thousandth of a meter.
+
+10<sup>-3 meters.
+
+# Meter
+
+About one yard, or three feet.
+
+# Kilometer
+
+A thousand meters.
+
