@@ -5,7 +5,7 @@ Note: assumes we're talking human heads.
 * Dorsal / Superior -> top
 * Ventral / Inferior -> bottom
 * Anterior / Rostral -> front (rostral == towards the nose)
-* Posterior / Caudal -> back (rostral == towards the tail)
+* Posterior / Caudal -> back (caudal == towards the tail)
 * Medial -> middle (interior)
 * Lateral -> sides
 
