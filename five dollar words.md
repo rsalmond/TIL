@@ -44,6 +44,8 @@ Effete: no longer fertile, having lost vitality, marked by weakness or decadence
 
 Efflorescence: the process of developing, fullness of manifestation.
 
+Erudite: characterized by considerable knowledge, well taught, learned.
+
 Eschatology: theological views on death, judgement, the destiny of the soul, and the end of the world.
 
 Esemplastic: shaping of disparate things into a unified whole.
