@@ -22,7 +22,8 @@ Gigil: desire to hug or squeeze something that is unbearably cute.
 
 ### German
 
-Weltschmerz: melancholy and world-weariness (literally: "world pain")
+Weltschmerz: melancholy and world-weariness (literally: "world pain").
+Torschlusspanik: "gate-shut panic" - fear that time is running out and an opportunity will be missed.
 
 ### Greek
 
