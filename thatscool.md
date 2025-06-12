@@ -1,8 +1,12 @@
 # Cool Things
 
-## May 2025
+## June 2025
+
+State of the art text to speech models drop about every six minutes these days, but usually the example speech is pretty banal. Not today though, reclaim.ai [recently released a zero shot voice cloning model called Chatterbox](https://github.com/resemble-ai/chatterbox) with a bunch of hilarious lines of dialogue from cinema as the sample audio. Click [here](https://resemble-ai.github.io/chatterbox_demopage/) to listen to Peter Griffin deliver lines from Resevoir Dogs and Rick Sanchez deliver a kick-ass monologue from Gladiator among other hilarious examples.
 
 I've spent a lot of time in my day job creating presentations using markdown -> revealjs and I'm always on the lookout for tool improvements in this ecosystem. Obsidian's revealJS plugin feels extremely half baked to me, and while Quarto feels more like something professionals would use I find the docs to be frustrating. (This part of Quarto is powered by pandoc, go read the pandoc docs, and then go ahead and take a wild guess which mixture of quarto args and pandoc args will combine to produce the result you want). But today I stumbled across [quarkdown](https://github.com/iamgio/quarkdown) which looks extremely compelling, specifically for producing workshops comprised of slides which contain code from external files which are part of the exercise material. Keeping slide content up to date with hands-on lab content is tedious and error prone and Quarkdown appears to solve the problem well.
+
+## May 2025
 
 [Ubicloud](https://github.com/ubicloud/ubicloud) looks like what proxmox could be if it were made by grown ups.
 
