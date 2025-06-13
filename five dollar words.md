@@ -96,6 +96,8 @@ Lucent: glowing.
 
 Numinous: having a strong spiritual or divine quality.
 
+Onanistic: pertaining to masturbation.
+
 Patency: the condition of being open, expanded, or unobstructed.
 
 Perdititon: hell, damnation.
