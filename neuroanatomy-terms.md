@@ -13,7 +13,9 @@ Note: assumes we're talking human heads.
 
 ### Phrases / Terms
 
-nucleus / nucleus group: localized cluster of neurons, often within a defined region. generally share similar structure, function, and connectivity.
+nucleus / nucleus group: localized cluster of neuronal cell bodies in the CNS, often within a defined region. generally share similar structure, function, and connectivity. (Note the basal ganglia is in the CNS and shoulda been called the basal nucleus but the name stuck for historic reasons).
+
+ganglia: like a nucleus but in the PNS
 
 neural circuit: network of interconnected neurons, can span multiple brain regions, often involve multiple nucleus groups.
 
