@@ -40,9 +40,17 @@
 
 ## Bronze Age 3300 - 1200 BCE
 
+## 300 BCE
+
+* 336 BCE Alexander The Great takes throne of the Greek city of Macedon.
+
 ## 400 BCE
 
 * Democritus argues the idea of "Atomos" - an indivisible building block of matter.
+
+### 400 CE
+
+* 476 Fall of Rome (last Roman emperor)
 
 ## 1500 CE
 
@@ -94,7 +102,6 @@
 
 ## 1950 CE
 
-
 ### 1950
 
 * North Korea invades South Korea.
@@ -103,7 +110,6 @@
 
 * Dwight D Eisenhower elected by a landslide.
 * Jonas Salk invents polio vaccine.
-
 
 ### 1955
 * Albert Einstein dies @ 76 yrs old.
