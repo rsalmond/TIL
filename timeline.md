@@ -2,25 +2,30 @@
 
 # Prehistory
 
+* Evolution of bipedalism 12 mya - 4 mya
+
 ## Pliocene (Geologic Epoch) 5.33 mya - 2.58 mya
+
+* Earliest stone tools - 3.4 mya
 
 ## Lower Paleolithic 3.3 mya - 300 kya
 
 * AKA The Stone Age
 
-### Genus Homo - 2.4mya
+* genus homo emerges 2.4mya
+  * [Homo Habilis](https://en.wikipedia.org/wiki/Homo_habilis)
 
-* [Homo Habilis](https://en.wikipedia.org/wiki/Homo_habilis)
+* Earliest controlled use of fire 2 mya - 1.7 mya
 
-### 
+* Out of Africa I 2.1 mya
+
+#### 315 kya
+
+* Emergence of anatomically modern humans at Jebel Irhoud.
 
 ## Middle Paleolithic 300 kya - 50 kya
 
-* Origin of behavioural modernity.
-
-### 315 kya
-
-* Emergence of anatomically modern humans at Jebel Irhoud.
+* Origin of behavioural modernity 150 kya - 70 kya
 
 ## Upper Paleolithic 50 kya - 12 kya
 
@@ -43,7 +48,7 @@
 
 ### 1543
 
-* Nicolaus Copernicus publishes "On the Revolutions of the Celestial Spheres" and then dies in the same year.a
+* Nicolaus Copernicus publishes "On the Revolutions of the Celestial Spheres" and then dies in the same year.
 
 ## 1600 CE
 
@@ -114,4 +119,4 @@
 * Heinlein publishes Stranger in a Strange Land.
 
 ### 1969
-* Woodstock music festival.On the Revolutions of the Celestial Spheres
+* Woodstock music festival.
