@@ -74,3 +74,19 @@ About one yard, or three feet.
 
 A thousand meters.
 
+# Astronomical Unit
+
+149.5 million km
+
+# Light year
+
+9.46 trillion km, or 63,240 AUs
+
+# Parsec
+
+3.26 light years, or 206,265 AUs
+
+# Milky Way
+
+87,400 light years (26.8 kiloparsecs)
+
