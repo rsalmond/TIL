@@ -74,6 +74,18 @@
 
 * Isaac Newton publishes the Principia - laws of motion and law of universal gravitation (and independently invents calculus).
 
+## 1690 CE
+
+### 1698
+
+* First commercial steam engine.
+
+## 1780
+
+### 1789
+
+* Beginning of the French Revolution.
+
 ### 1889
 
 * Ludwig Wittgenstein born in Vienna.
