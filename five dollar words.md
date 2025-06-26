@@ -128,6 +128,8 @@ Rapproach: establish friendly relations between two opposing groups.
 
 Ramify: split into branches or constituent parts.
 
+Reafference: (AKA "efference copy") sensory signals received by the brain when the sensory organ itself moves (eg. visual field panning when the eyeball saccades).
+
 Recondite: obscure, abstruse, esoteric.
 
 Rectitude: morally correct behavour or thinking.
