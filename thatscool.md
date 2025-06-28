@@ -2,6 +2,8 @@
 
 ## June 2025
 
+Since 2012 Nikon has been running a competition called Small World in Motion to find the best videos shot through a microscope and [the results](https://www.nikonsmallworld.com/galleries/small-world-in-motion) are fascinating.
+
 The author of [uncloud](https://github.com/psviderski/uncloud) just announced [unregistry](https://github.com/psviderski/unregistry), a layer-aware image-push-over-ssh tool that allows you to `docker pussh` (cuz ssh ... get it?) from your local container runtime storage to the container storage on a remote machine without an intermediary registry.
 
 State of the art text to speech models drop about every six minutes these days, but usually the example speech is pretty banal. Not today though, reclaim.ai [recently released a zero shot voice cloning model called Chatterbox](https://github.com/resemble-ai/chatterbox) with a bunch of hilarious lines of dialogue from cinema as the sample audio. Click [here](https://resemble-ai.github.io/chatterbox_demopage/) to listen to Peter Griffin deliver lines from Resevoir Dogs and Rick Sanchez deliver a kick-ass monologue from Gladiator among other hilarious examples.
