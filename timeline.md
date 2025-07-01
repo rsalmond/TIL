@@ -1,5 +1,25 @@
 # ... and then what happened?
 
+Geologic time is divided into four Eons, which are divided into ten Eras, which are divided into twenty-two Periods, which are divided into thirty-seven Epochs, which are divide into ninety-seven Ages.
+
+We are currently in the Phanerozoic Eon, Cenozoic Era, Quaternery Period, Holocene Epoch, Meghalayan age.
+
+* Hadean Eon
+  * Begins with the formation of the Earth 4.6 Ga (billion years) 
+  * Ends 4.013 Ga, which is the age of the oldest known intact rock formations on Earth.
+* Archean Eon
+  * Earliest known life appears in this eon.
+  * Begins 4.0 Ga
+  * Ends 2.5 Ga
+* Proterozoic Eon
+  * Covers time from the appearance of free oxygen on Earth to just before the Cambrian explosion.
+  * Begins 2.5 Ga
+  * Ends 538 Mya
+  * Everything from here back is considered Precambrian.
+* Phanerozoic Eon
+  * Begins 538 Mya with the Cambrian explosion.
+  * It's happening right now!
+
 # Prehistory
 
 * Evolution of bipedalism 12 mya - 4 mya
