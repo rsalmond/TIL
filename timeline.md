@@ -17,7 +17,7 @@ We are currently in the Phanerozoic Eon, Cenozoic Era, Quaternery Period, Holoce
   * Ends 538 Mya
   * Everything from here back is considered Precambrian.
 * Phanerozoic Eon
-  * Begins 538 Mya with the Cambrian explosion.
+  * Begins 538 Mya with the Cambrian explosion, vision and predation appear around this time and are presumed to kick off / accelerate the explosion.
   * It's happening right now!
 
 # Prehistory
