@@ -14,4 +14,4 @@ Psychology focuses on [personal identity](https://en.wikipedia.org/wiki/Personal
 
 Huberman: "I am of that and it is of me."
 
-Soinfeld: "I wanted to be one of those guys."
+Seinfeld: "I wanted to be one of those guys."
