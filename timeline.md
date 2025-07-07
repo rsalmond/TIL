@@ -14,10 +14,15 @@ We are currently in the Phanerozoic Eon, Cenozoic Era, Quaternery Period, Holoce
 * Proterozoic Eon
   * Covers time from the appearance of free oxygen on Earth to just before the Cambrian explosion.
   * Begins 2.5 Ga
-  * Ends 538 Mya
+  * Ends 538 Ma
   * Everything from here back is considered Precambrian.
 * Phanerozoic Eon
-  * Begins 538 Mya with the Cambrian explosion, vision and predation appear around this time and are presumed to kick off / accelerate the explosion.
+  * Begins 538 Ma with the Cambrian explosion, vision and predation appear around this time and are presumed to kick off / accelerate the explosion.
+  * 445-444 Ma [Late Ordivician mass extinction event](https://en.wikipedia.org/wiki/Late_Ordovician_mass_extinction)
+  * 372-359 Ma [Late Denovian mass extinction event](https://en.wikipedia.org/wiki/Late_Devonian_mass_extinction)
+  * 252 Ma [Permian Triassic mass extinction event](https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event)
+  * 201.3 Ma [Triassic Jurassic mass extinction event](https://en.wikipedia.org/wiki/Triassic%E2%80%93Jurassic_extinction_event)
+  * 66 Ma [Cretaceus Paleogene mass extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event)
   * It's happening right now!
 
 # Prehistory
