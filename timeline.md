@@ -27,17 +27,17 @@ We are currently in the Phanerozoic Eon, Cenozoic Era, Quaternery Period, Holoce
 
 # Prehistory
 
-* Evolution of bipedalism 12 mya - 4 mya
+* [Evolution of bipedalism](https://en.wikipedia.org/wiki/Human_skeletal_changes_due_to_bipedalism) 12 mya - 4 mya
 
 ## Pliocene (Geologic Epoch) 5.33 mya - 2.58 mya
 
-* Earliest stone tools - 3.4 mya
+* [Earliest stone tools](https://en.wikipedia.org/wiki/List_of_earliest_tools#List_of_tools) - 3.4 mya
 
 ## Lower Paleolithic 3.3 mya - 300 kya
 
 * AKA The Stone Age
 
-* genus homo emerges 2.4mya
+* [genus homo emerges](https://en.wikipedia.org/wiki/Homo#Australopithecus_and_the_appearance_of_Homo) 2.4mya
   * [Homo Habilis](https://en.wikipedia.org/wiki/Homo_habilis)
 
 * Earliest controlled use of fire 2 mya - 1.7 mya
