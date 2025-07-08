@@ -25,6 +25,14 @@ We are currently in the Phanerozoic Eon, Cenozoic Era, Quaternery Period, Holoce
   * 66 Ma [Cretaceus Paleogene mass extinction event](https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event)
   * It's happening right now!
 
+---
+
+![tree of life](https://evogeneao.s3.amazonaws.com/images/tree_of_life/tree-of-life_2000.png)
+
+> Tree of life [interactive version](http://evogeneao.com/en/explore/tree-of-life-explorer).
+
+---
+
 # Prehistory
 
 * [Evolution of bipedalism](https://en.wikipedia.org/wiki/Human_skeletal_changes_due_to_bipedalism) 12 mya - 4 mya
