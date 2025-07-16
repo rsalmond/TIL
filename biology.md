@@ -13,6 +13,8 @@
   * If the sugar is ribose, the nucleotide polymerises into RNA, if it's deoxyribose, you get DNA.
 * Oligonucleotide - short (fewer than 20) polymer of nucleotides.
 * Polynucleotide - longer polymer.
+* Gene - a nucleotide sequence which transcribes to produce functional RNA.
+  * "Gene expression" is the synthesis of RNA or a protein from DNA.
 * Nucleic Acid - DNA or RNA.
 * Nucleosome - Complex consisting of 1.65 turns (~147 base pairs) of DNA wrapped around eight histones (histone octamer) resembling a spool of thread.
 * Chromatin - Complex consisting of DNA and a histone complex which wraps long DNA polymers around histones forming dense, compact structures to prevent them from becoming tangled.
