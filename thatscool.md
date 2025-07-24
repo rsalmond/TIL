@@ -1,5 +1,9 @@
 # Cool Things
 
+## July 2025
+
+[Satdump](https://www.satdump.org/) is definitely not news for HAM nerds but it's news to me. It's like a generic downlink app for all sorts of birds, for which they offer a [comprehensive list](https://www.satdump.org/Satellite-List/).
+
 ## June 2025
 
 Since 2012 Nikon has been running a competition called Small World in Motion to find the best videos shot through a microscope and [the results](https://www.nikonsmallworld.com/galleries/small-world-in-motion) are fascinating.
