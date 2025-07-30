@@ -2,6 +2,8 @@
 
 ## July 2025
 
+[bookmarkfs](https://www.nongnu.org/bookmarkfs/) lets you mount chrome or ff bookmarks as a filesystem. 
+
 [Satdump](https://www.satdump.org/) is definitely not news for HAM nerds but it's news to me. It's like a generic downlink app for all sorts of birds, for which they offer a [comprehensive list](https://www.satdump.org/Satellite-List/).
 
 ## June 2025
