@@ -12,6 +12,8 @@ Afflatus: strong creative impulse, divine inspiration.
 
 Aleatory: dependant on chance, or an uncertain outcome.
 
+Allotrope: an element which exists in multiple forms (eg. dioxygen O2 and ozone O3).
+
 Allusive: characterized by indirect references.
 
 Anomie: instability caused a breakdown of social norms or moral standards.
