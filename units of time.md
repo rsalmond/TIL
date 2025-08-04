@@ -43,6 +43,12 @@
 * 1 / 1,000,000,000th (billionth) of a second
 * 10<sup>-9</sup> seconds
 
+## Picosecond
+* 1000 femtoseconds
+* 1/1000th of a nanosecond
+* 1 / 100,000,000,000th (trillionth) of a second
+* 10<sup>-12</sup> seconds
+
 ---
 
 ## Planck Time
