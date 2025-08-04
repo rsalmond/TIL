@@ -42,3 +42,9 @@
 * 1 / 1,000,000,000th (billionth) of a second
 * 10<sup>-9</sup> seconds
 
+---
+
+## Planck Time
+* the time it takes light to travel one Planck length
+* 1/10,000,000,000,000,000,000,000,000,000,000,000,000,000,000th (tredecillionth) of a second
+* 10<sup>-44</sup> seconds
