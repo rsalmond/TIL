@@ -19,6 +19,7 @@
 
 * 1000 milliseconds
 * 1 million microseconds
+* 1 billion nanoseconds
 
 ## Millisecond
 
