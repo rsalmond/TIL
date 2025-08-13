@@ -1,5 +1,9 @@
 # Cool Things
 
+## August 2025
+
+[YTSage](https://github.com/oop7/YTSage) is another take on yt-dl but with a slick looking cross platform GUI instead of a CLI.
+
 ## July 2025
 
 [bookmarkfs](https://www.nongnu.org/bookmarkfs/) lets you mount chrome or ff bookmarks as a filesystem. 
