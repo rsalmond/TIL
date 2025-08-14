@@ -1,6 +1,11 @@
+## Terrasecond
+* 1000 gigaseconds
+* 1,000,000,000,000 (trillion) seconds
+* just over 31,600 years
+ 
 ## Gigasecond
 
-* 1000 Megaseconds
+* 1000 megaseconds
 * 1,000,000,000 (billion) seconds
 * 31 years 287 days
 
@@ -20,6 +25,7 @@
 * 1000 milliseconds
 * 1 million microseconds
 * 1 billion nanoseconds
+* 1 trillion picoseconds
 
 ## Millisecond
 
@@ -46,8 +52,20 @@
 ## Picosecond
 * 1000 femtoseconds
 * 1/1000th of a nanosecond
-* 1 / 100,000,000,000th (trillionth) of a second
+* 1 / 1,000,000,000,000th (trillionth) of a second
 * 10<sup>-12</sup> seconds
+
+## Femtosecond
+* 1000 attoseconds
+* 1/1000th of a picosecond
+* 1 / 1,000,000,000,000,000th (quadrillionth) of a second
+* 10<sup>-15</sup> seconds
+
+## Attosecond
+* 1000 zeptoseconds
+* 1/1000th of a femtosecond
+* 1 / 1,000,000,000,000,000,000th (quintillionth) of a second
+* 10<sup>-18</sup> seconds
 
 ---
 
