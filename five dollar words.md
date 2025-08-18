@@ -72,6 +72,8 @@ Hidebound: unwilling to change because of tradition or convention.
 
 Heterodox: not conforming with accepted (orthodox) standards or beliefs.
 
+Hortatory: to encourage or strongly urge.
+
 Immanent: inherent. Or: within the limits of possible experience or knowledge (opposite of transcendent).
 
 Impugn: dispute the truth, honesty, or validity of a statement. call into question.
