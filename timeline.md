@@ -52,6 +52,8 @@ We are currently in the Phanerozoic Eon, Cenozoic Era, Quaternery Period, Holoce
 
 * Out of Africa I 2.1 mya
 
+* H. Sapiens and Neanderthal split 700kya-500kya
+
 #### 315 kya
 
 * Emergence of anatomically modern humans at Jebel Irhoud.
