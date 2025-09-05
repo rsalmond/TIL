@@ -1,5 +1,9 @@
 # Cool Things
 
+## September 2025
+
+Fuck that GUI we found in August, use a [Youtube text UI](https://github.com/Siriusmart/youtube-tui) instead.
+
 ## August 2025
 
 [YTSage](https://github.com/oop7/YTSage) is another take on yt-dl but with a slick looking cross platform GUI instead of a CLI.
