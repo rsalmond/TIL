@@ -2,6 +2,8 @@
 
 ## September 2025
 
+[Chafa](https://hpjansson.org/chafa/) provides crispy terminal graphics. The power of ANSI X3.64 compels you!
+
 Fuck that GUI we found in August, use a [Youtube text UI](https://github.com/Siriusmart/youtube-tui) instead.
 
 [`deck`](https://github.com/k1LoW/deck) generates a Google Slides presentation using markdown.
