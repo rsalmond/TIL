@@ -2,6 +2,8 @@
 
 ## September 2025
 
+The [net4people/bbs](https://github.com/net4people/bbs/issues) repo uses github issues as a web forum for discussing the current state of internet censorship and bypass strategies for users accessing the net from a variety of places which face oppressive access restrictions.
+
 [Chafa](https://hpjansson.org/chafa/) provides crispy terminal graphics. The power of ANSI X3.64 compels you!
 
 Fuck that GUI we found in August, use a [Youtube text UI](https://github.com/Siriusmart/youtube-tui) instead.
