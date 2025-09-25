@@ -2,6 +2,8 @@
 
 ## September 2025
 
+I give it about five minutes until all Zoom calls are filled with digital puppet clones of each attendees likeness being driven by LLMs trained on slack / email / mtg transcript histories. Anyway check out [duix.avatar](https://github.com/duixcom/Duix.Avatar).
+
 [Websocat](https://github.com/vi/websocat) is basically [grpcurl](https://github.com/fullstorydev/grpcurl) for ws://
 
 The [net4people/bbs](https://github.com/net4people/bbs/issues) repo uses github issues as a web forum for discussing the current state of internet censorship and bypass strategies for users accessing the net from a variety of places which face oppressive access restrictions.
