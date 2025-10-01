@@ -1,5 +1,9 @@
 # Cool Things
 
+## October 2025
+
+[Volatility](https://volatility3.readthedocs.io/en/latest/index.html#) analyzes RAM dumps.
+
 ## September 2025
 
 I give it about five minutes until all Zoom calls are filled with digital puppet clones of each attendees likeness being driven by LLMs trained on slack / email / mtg transcript histories. Anyway check out [duix.avatar](https://github.com/duixcom/Duix.Avatar).
