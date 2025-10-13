@@ -2,6 +2,8 @@
 
 ## October 2025
 
+[Whenever World](https://whenever.world/) indexes fiction (books, shows, films) by the time period and location the stories are set in. Find movies that take place in midieval egypt, or books set in feudal japan.
+
 [Volatility](https://volatility3.readthedocs.io/en/latest/index.html#) analyzes RAM dumps.
 
 ## September 2025
