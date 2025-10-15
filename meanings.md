@@ -9,3 +9,9 @@ they invoke. External side is interested in how words refer to objects in the wo
  * Phrasal Semantics - meaning of sentences, how new meanings can be created by arranging words
  * [Formal Semantics](https://en.wikipedia.org/wiki/Formal_semantics_(natural_language)) - combines logic and math to examine relationship between language and meaning
  * [Cognitive Semantics](https://en.wikipedia.org/wiki/Cognitive_semantics) - examines meaning from a psychelogical perspective
+
+## [Semiotics](https://en.wikipedia.org/wiki/Semiotics#Syntactics)
+
+Study of signs and how they are used to create and convey meaning. Examines the nature of signs, their organization into sign systems,
+and the ways they are interpreted and used. Signs are entities that stand for something else, and can take many forms like sounds,
+images, written marks, or gestures.
