@@ -79,6 +79,12 @@ Essentialism: the view that all things have properties which are necessary to th
 Affective realism: "the phenomenon that you experience what you believe" (LFB - "How Emotions Are Made") "(the) brain continually predicts the meaning of sensations (e.g., identifying a sound as a siren, or a visual array as a face) in part by representing the current state of the body and the immediate physiological impact that similar sensory events have entailed in the past." ([article](doi.org/10.1007/s42761-022-00114-9))
 
 
+---
+
+Pragmatism: views language and thought as tools for prediction, problem solving, and action, rather than describing, representing, or mirroring reality. Pragmatists contend that most philosophical topics—such as the nature of knowledge, language, concepts, meaning, belief, and science—are best viewed in terms of their practical uses and successes.
+
+> Kinda sounds like the Behaviourism of meaning.
+
 ## TODO
 
 
