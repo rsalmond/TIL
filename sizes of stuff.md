@@ -80,17 +80,40 @@ A thousand meters.
 
 # Astronomical Unit
 
-149.5 million km
+Average distance between Earth and Sol.
+
+1.495978707 ×10<sup>11 meters.
+
+149,597,870,700 meters.
+
+~150 million km
 
 # Light year
-
 9.46 trillion km, or 63,240 AUs
 
 # Parsec
-
 3.26 light years, or 206,265 AUs
 
-# Milky Way
+# Close Neighbours
+* Proxima Centauri 4.2 ly, 1.3 pc
+* Barnadrs Star 5.9 ly, 1.8 pc
+* Luhman 16 6.5 ly, 2 pc
+* Wolf 359 7.8 ly, 2.4 pc
+* Serius 8.6 ly, 2.6 pc
 
-87,400 light years (26.8 kiloparsecs)
+# Nearby Notables
+* Betelgeuse (AKA Alpha Orionis) 400-600 ly (top left corner of constellation Orion, finna blow soonish)
 
+# Galactic Center
+* Sagitarius A* 26,996 ly, 8277 pc
+
+# Diameter of The Milky Way
+87,400 light years
+26.8 kiloparsecs
+
+# Nearby Galaxies
+
+* Large Magellenic Cloud 173,000 ly, 50,000 pc
+* Messier 32 2,490,000 ly, 763,000 pc
+* Andromeda 2,500,000 ly, 765,000 pc
+* Triangulum ~3,000,000 ly, ~950,000 pc
