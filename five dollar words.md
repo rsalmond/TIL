@@ -162,6 +162,10 @@ Sublate: deny or negate. Or: assimilate a smaller entity into a larger one.
 
 Syncretism: the practice of combining different beliefs and various schools of thought.
 
+Tsuris: (Yiddish) troubles.
+ - someone who is beset by trouble is "af tsuris" or "on troubles"
+ - someone taking a beating has "gehakte tsuris" or "chopped troubles"
+
 Unstinting: given without restraint, unsparing.
 
 Vicissitude: change of fortune, typically unwelcome.
