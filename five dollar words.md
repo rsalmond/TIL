@@ -36,6 +36,8 @@ Casuistry: specious reasoning.
 
 Concupiscence: the tendency of humans to sin, strong sexual desire, longing.
 
+Conspecific: a member of the same species.
+
 Dead letter: law or treaty that has not been repealed but which is defunct in practice.
 
 Diurnal: daily.
