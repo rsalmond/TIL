@@ -100,6 +100,8 @@ Juridical: relating to judicial proceedings and the administration of law.
 
 Laity: lay people, as opposed to experts or professionals.
 
+Leonine: lion-like.
+
 Lucent: glowing.
 
 Numinous: having a strong spiritual or divine quality.
