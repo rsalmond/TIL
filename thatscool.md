@@ -1,5 +1,9 @@
 # Cool Things
 
+## November 2025
+
+[fssh](https://github.com/Mister-leo/fssh) lets you use your mac touchid to unlock your ssh keys.
+
 ## October 2025
 
 [Granian](https://github.com/emmett-framework/granian) is a python application server that uses theads instead of preforked processes for workers.
