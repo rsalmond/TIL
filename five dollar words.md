@@ -6,6 +6,8 @@ Adduce: to offer as evidence, to cite as proof.
 
 Adumbrate: represent in outline, faintly indicate, foreshadow or symbolize.
 
+Aesthete: one who is highly sensitive to beauty.
+
 Afferent: conveying towards the center
 
 Afflatus: strong creative impulse, divine inspiration.
