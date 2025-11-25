@@ -92,6 +92,13 @@ Average distance between Earth and Sol.
 9.46 trillion km, or 63,240 AUs
 
 # Parsec
+
+"Parallax arcsecond"
+
+The distance at which a remote object's parallax angle is one arcsecond, when viewed from two points separated by one astronomical unit.
+
+IE. look at it today then wait six months for the Earth to move to the other side of the Sun and view it again, if the apparent parallax motion of the near object against the backdrop of distant objects == 1 arcecond, then the near object is one parsec away.
+
 3.26 light years, or 206,265 AUs
 
 # Close Neighbours
