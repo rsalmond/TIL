@@ -2,6 +2,8 @@
 
 ## November 2025
 
+[KrypteEY](https://github.com/amnesica/KryptEY) let's you communicate via the Signal protocol using any chat app.
+
 [fssh](https://github.com/Mister-leo/fssh) lets you use your mac touchid to unlock your ssh keys.
 
 ## October 2025
