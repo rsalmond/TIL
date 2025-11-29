@@ -85,6 +85,14 @@ Pragmatism: views language and thought as tools for prediction, problem solving,
 
 > Kinda sounds like the Behaviourism of meaning.
 
+### Presentism & Eternalism
+
+Ontological doctrines regarding time.
+
+Presentism: only the present is real.
+
+Eternalism: all things in the past, present, and future are real.
+
 ## TODO
 
 
