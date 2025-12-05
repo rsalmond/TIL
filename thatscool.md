@@ -2,6 +2,8 @@
 
 ## November 2025
 
+Researchers at the University of Navarre in Spain created a [volumetric display](https://youtu.be/4wwKOXxX9Ck?si=sZphUPe1Og1hvrTn) made of vibrating rubber bands that are safe to touch, enabling tablet-like multitouch interactions with a hologram-like visualization.
+
 [KrypteEY](https://github.com/amnesica/KryptEY) let's you communicate via the Signal protocol using any chat app.
 
 [fssh](https://github.com/Mister-leo/fssh) lets you use your mac touchid to unlock your ssh keys.
