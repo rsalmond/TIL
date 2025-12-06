@@ -174,6 +174,8 @@ Tsuris: (Yiddish) troubles.
 
 Unstinting: given without restraint, unsparing.
 
+Venal: corrupt, open to bribary, available for a price.
+
 Vicissitude: change of fortune, typically unwelcome.
 
 Vitiate: spoil or impair the quality of something, destroy the legal validity of something.
