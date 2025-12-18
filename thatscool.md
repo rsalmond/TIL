@@ -1,5 +1,11 @@
 # Cool Things
 
+## December 2025
+
+[TorrServer](https://github.com/YouROK/TorrServer) looks like a self hosted version of [put.io](https://put.io) - torrent goes in, if present in the cache, file comes out without the need for a swarm download.
+
+[qjp](https://github.com/plainas/qjp) is a TUI for performing `jq` style queries on a JSON document.
+
 ## November 2025
 
 [Fresh](https://sinelaw.github.io/fresh/) is a text editor with an old school edit.com look and feel.
