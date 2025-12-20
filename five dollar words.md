@@ -32,6 +32,8 @@ Arrogation: to take or claim as one's own without right.
 
 Augur: portent of things to come.
 
+Avuncular: a literal uncle, or one who is uncle-like.
+
 Bulwark: strong support or protection, wall-like structure raised for defense.
 
 Casuistry: specious reasoning.
