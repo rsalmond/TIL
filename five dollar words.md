@@ -24,6 +24,8 @@ Anxiolytic: a medical intervention which reduces anxiety.
 
 Apodictic: clearly established, beyond dispute.
 
+Apotheosis: the perfect example of something.
+
 Apotheosize: glorify, exalt.
 
 Apperception: perception of the self (Kantian). Or: assimilating a new experience through the lens of ones past experiences.
