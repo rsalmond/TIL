@@ -72,6 +72,8 @@ Fustian: pompous or pretentious speech or writing.
 
 Gelid: icy, extremely cold.
 
+Hagiography: biography of a saint.
+
 Hidebound: unwilling to change because of tradition or convention.
 
 Heterodox: not conforming with accepted (orthodox) standards or beliefs.
