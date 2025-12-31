@@ -106,6 +106,8 @@ Itinerant: someone who alternates between travel/wandering and work.
 
 Juridical: relating to judicial proceedings and the administration of law.
 
+Kibitz: chat, gab.
+
 Laity: lay people, as opposed to experts or professionals.
 
 Leonine: lion-like.
