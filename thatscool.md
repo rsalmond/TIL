@@ -1,5 +1,9 @@
 # Cool Things
 
+## January 2026
+
+[cloudfox](https://github.com/BishopFox/cloudfox) is a neat looking security scanner for AWS.
+
 ## December 2025
 
 [TorrServer](https://github.com/YouROK/TorrServer) looks like a self hosted version of [put.io](https://put.io) - torrent goes in, if present in the cache, file comes out without the need for a swarm download.
