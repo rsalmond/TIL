@@ -2,6 +2,8 @@
 
 ## January 2026
 
+[openchaos](https://github.com/skridlevsky/openchaos) is emojified democracy driven development, kinda reminiscient of "twitch plays pokemon".
+
 [cloudfox](https://github.com/BishopFox/cloudfox) is a neat looking security scanner for AWS.
 
 ## December 2025
