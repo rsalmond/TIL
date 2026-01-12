@@ -2,7 +2,7 @@
 
 ## January 2026
 
-[grit.io](http://grit.io/) automates code changes. s/old/new/g on steroids.
+[grit.io](http://grit.io/) automates code changes. `s/old/new/g` on steroids.
 
 [openchaos](https://github.com/skridlevsky/openchaos) is emojified democracy driven development, kinda reminiscient of "twitch plays pokemon".
 
