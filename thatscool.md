@@ -2,6 +2,8 @@
 
 ## January 2026
 
+[Ian Servin](https://ianservin.com) is one of those aviation nerds (among other things) who likes to keep tabs on his local airspace. So naturally he built a pretty [badass aircraft tracking camera](https://ianservin.com/2026/01/13/project-skywatch-aka-wescam-at-home/) that combines computer vision, pan-tilt-zoom controling a camera, and ADS-B monitoring to automatically scour the skies for interesting targets. Code is [here](https://github.com/airplaneian/skywatch_ptz_control). Immediately reminded me of Turner's limo in Count Zero, this shit cyberpunk af.
+
 [grit.io](http://grit.io/) automates code changes. `s/old/new/g` on steroids.
 
 [openchaos](https://github.com/skridlevsky/openchaos) is emojified democracy driven development, kinda reminiscient of "twitch plays pokemon".
