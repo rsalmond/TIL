@@ -162,6 +162,8 @@ Regnant: ruling, currently having the greatest influence.
 
 Riven: split into pieces or factions.
 
+Sagacious: insightful, posessing keen understanding.
+
 Sclerotic: rigid, unresponsive, unable to adapt.
 
 Sinecure: a position with a salary that requires little or no work.
