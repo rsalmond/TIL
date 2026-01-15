@@ -76,11 +76,15 @@ Fustian: pompous or pretentious speech or writing.
 
 Gelid: icy, extremely cold.
 
+Gustation: the sesation of taste.
+
 Hagiography: biography of a saint.
 
 Hidebound: unwilling to change because of tradition or convention.
 
 Heterodox: not conforming with accepted (orthodox) standards or beliefs.
+
+Hoi polloi: literally "the many" or "the people", generally "the plebs", "the great unwashed".
 
 Hortatory: to encourage or strongly urge.
 
@@ -137,6 +141,8 @@ Primogeniture: the right of succession belonging to the first born child.
 Profundity: deep insight.
 
 Proleptic: addressing objections before they have been raised.
+
+Prolix: tediously long, verbose, wordy.
 
 Promulgate: promote an idea or cause, make it widely known.
 
