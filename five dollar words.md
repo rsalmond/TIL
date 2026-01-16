@@ -116,6 +116,8 @@ Laity: lay people, as opposed to experts or professionals.
 
 Leonine: lion-like.
 
+Limerance: being madly in love while reciprocation is uncertain.
+
 Lucent: glowing.
 
 Numinous: having a strong spiritual or divine quality.
