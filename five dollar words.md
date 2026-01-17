@@ -54,6 +54,8 @@ Effete: no longer fertile, having lost vitality, marked by weakness or decadence
 
 Efflorescence: the process of developing, fullness of manifestation.
 
+Élan: vigorous spirit, enthusiasm.
+
 Ergodic: a system which tends to repeatedly explore all possible states.
 
 Erudite: characterized by considerable knowledge, well taught, learned.
