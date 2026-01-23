@@ -40,6 +40,8 @@ Bulwark: strong support or protection, wall-like structure raised for defense.
 
 Casuistry: specious reasoning.
 
+Corpulent: extremely fat, obese.
+
 Concupiscence: the tendency of humans to sin, strong sexual desire, longing.
 
 Conspecific: a member of the same species.
@@ -128,6 +130,8 @@ Onanistic: pertaining to masturbation.
 
 Patency: the condition of being open, expanded, or unobstructed.
 
+Penury: severe poverty, opperssive lack of resources.
+
 Perdititon: hell, damnation.
 
 Perfervid: intense and impassioned.
@@ -137,6 +141,8 @@ Peripatetic: travelling from place to place, especially for work.
 Perspicacity: deep insight, penetrating discernment, shrewdness.
 
 Perspicuity: lucidity, being clear and easy to understand.
+
+Popinjay: one who is fond of vain, empty small talk.
 
 Predicable: a characteristic which can be attributed to something.
 
@@ -173,6 +179,8 @@ Regnant: ruling, currently having the greatest influence.
 Riven: split into pieces or factions.
 
 Sagacious: insightful, posessing keen understanding.
+
+Scabrous: rough to the touch or salacious / scandalous.
 
 Sclerotic: rigid, unresponsive, unable to adapt.
 
