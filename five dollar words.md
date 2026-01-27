@@ -202,6 +202,8 @@ Tsuris: (Yiddish) troubles.
 
 Unstinting: given without restraint, unsparing.
 
+Verisimilitude: the appearance of truth.
+
 Venal: corrupt, open to bribary, available for a price.
 
 Vicissitude: change of fortune, typically unwelcome.
