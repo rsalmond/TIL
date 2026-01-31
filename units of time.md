@@ -3,6 +3,7 @@
 * 1,000,000,000,000,000 (quadrillion) seconds
 * 31,709,791 years
 * 10<sup>15</sup> seconds
+* 434.8 petaseconds ~ age of the universe (13.77 billion years)
 
 ## Terrasecond
 * 1000 gigaseconds
