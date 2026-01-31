@@ -1,24 +1,34 @@
+## Petasecond
+* 1000 terraseconds
+* 1,000,000,000,000,000 (quadrillion) seconds
+* 31,709,791 years
+* 10<sup>15</sup> seconds
+
 ## Terrasecond
 * 1000 gigaseconds
 * 1,000,000,000,000 (trillion) seconds
-* just over 31,600 years
+* 31,709 years
+* 10<sup>12</sup> seconds
  
 ## Gigasecond
 
 * 1000 megaseconds
 * 1,000,000,000 (billion) seconds
 * 31 years 287 days
+* 10<sup>9</sup> seconds
 
 ## Megasecond
 
 * 1000 kiloseconds
 * 1,000,000 (million) seconds
 * 11 days 14h 46m 40s
+* 10<sup>6</sup> seconds
 
 ## Kilosecond
 
 * 1000 seconds
 * 16m 40s
+* 10<sup>3</sup> seconds
 
 ## Second
 
@@ -48,12 +58,14 @@
 * 1/1000th of a microsecond
 * 1 / 1,000,000,000th (billionth) of a second
 * 10<sup>-9</sup> seconds
+* light travels 30 cm
 
 ## Picosecond
 * 1000 femtoseconds
 * 1/1000th of a nanosecond
 * 1 / 1,000,000,000,000th (trillionth) of a second
 * 10<sup>-12</sup> seconds
+* light travels 0.3 micrometers
 
 ## Femtosecond
 * 1000 attoseconds
@@ -71,13 +83,13 @@
 * 1000 yoctoseconds
 * 1/1000th of an attosecond
 * 1 / 1,000,000,000,000,000,000,000 (sextillionth) of a second
-* 10<sup>-21 seconds
+* 10<sup>-21</sup> seconds
 
 ## Yoctosecond
 * 1000 rontoseconds
 * 1/1000th of a zeptosecond
 * 1 / 1,000,000,000,000,000,000,000,000 (septillionth) of a second
-* 10<sup>-24 seconds
+* 10<sup>-24</sup> seconds
 
 ---
 
