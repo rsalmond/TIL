@@ -2,7 +2,7 @@
 
 ## January 2026
 
-I stumbled across the trio python async library today, and while it seems great it's [the tutorial](https://trio.readthedocs.io/en/stable/tutorial.html) that blew my socks off. A clean, concise introduction to the concepts of python async without resorting to a low level discussion of coroutines. Explaining async by starting with coroutines always felt like explaining HTTP by starting with ethernet, or explaining the digestion process by starting with covalent bonds.
+I stumbled across the [trio python async library](https://github.com/python-trio/trio) today, and while it seems great it's [the tutorial](https://trio.readthedocs.io/en/stable/tutorial.html) that blew my socks off. A clean, concise introduction to the concepts of python async without resorting to a low level discussion of coroutines. Explaining async by starting with coroutines always felt like explaining HTTP by starting with ethernet, or explaining the digestion process by starting with covalent bonds.
 
 A youtube channel called drew's campfire put out [this fantastic visualization](https://youtu.be/8jVogdTJESw) exploring the boundaries between chaos and order, it just keeps getting cooler.
 
