@@ -1,5 +1,9 @@
 # Cool Things
 
+## February 2026
+
+Lateley there seem to be a lot of chatter about wireguard, tailscale, netbird, and other encrypt-all-my-traffic-and-let-me-pretend-the-interenet-a-LAN-party type solutions. [Nebula](https://github.com/DefinedNet/nebula) looks to be a bit more interesting. [Spun out of Slack](https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack/) by the team that built it for them, they claim to be built from the same cryptographic primitives developed by Moxie Marlinspike et. al for use with Signal.
+
 ## January 2026
 
 I stumbled across the [trio python async library](https://github.com/python-trio/trio) today, and while it seems great it's [the tutorial](https://trio.readthedocs.io/en/stable/tutorial.html) that blew my socks off. A clean, concise introduction to the concepts of python async without resorting to a low level discussion of coroutines. Explaining async by starting with coroutines always felt like explaining HTTP by starting with ethernet, or explaining the digestion process by starting with covalent bonds.
