@@ -146,6 +146,8 @@ Popinjay: one who is fond of vain, empty small talk.
 
 Predicable: a characteristic which can be attributed to something.
 
+Primaparous: giving, or having given, birth for the first time.
+
 Primogeniture: the right of succession belonging to the first born child.
 
 Profundity: deep insight.
