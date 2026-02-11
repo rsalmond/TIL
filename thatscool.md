@@ -2,6 +2,8 @@
 
 ## February 2026
 
+[Hister](https://hister.org/) is a local searchable cache for your internet search results. That thing you searched for two days ago? Find it locally instead of wading through more ads and AI slop to Just Find The Thing. [Backstory](https://hister.org/posts/how-i-cut-my-google-search-dependence-in-half/).
+
 Lateley there seem to be a lot of chatter about wireguard, tailscale, netbird, and other encrypt-all-my-traffic-and-let-me-pretend-the-interenet-a-LAN-party type solutions. [Nebula](https://github.com/DefinedNet/nebula) looks to be a bit more interesting. [Spun out of Slack](https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack/) by the team that built it for them, they claim to be built from the same cryptographic primitives developed by Moxie Marlinspike et. al for use with Signal.
 
 ## January 2026
