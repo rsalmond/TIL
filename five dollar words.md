@@ -38,6 +38,8 @@ Avuncular: a literal uncle, or one who is uncle-like.
 
 Bulwark: strong support or protection, wall-like structure raised for defense.
 
+Caprice: a sudden, unpredictable change or action.
+
 Casuistry: specious reasoning.
 
 Corpulent: extremely fat, obese.
@@ -125,6 +127,8 @@ Limerance: being madly in love while reciprocation is uncertain.
 Lucent: glowing.
 
 Numinous: having a strong spiritual or divine quality.
+
+Obeisance: a gesture of deference or homage.
 
 Onanistic: pertaining to masturbation.
 
