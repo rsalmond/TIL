@@ -21,6 +21,36 @@ neural circuit: network of interconnected neurons, can span multiple brain regio
 
 ---
 
+### Broadly Speaking
+
+#### Cerebrum: "brain"
+
+Comprised of:
+
+* cerebral cortex (surface of the cerebrum)
+* subcortical structures (stuff under the surface)
+
+Divided into:
+
+* two hemispheres left/right
+* four lobes:
+  * frontal
+  * parietal (top & back)
+  * temporal (lower sides & back)
+  * occipital (back)
+
+#### Cerebellum: "little brain"
+
+---
+
+### Systems
+
+Limbic:
+* aka "paleomammalian cortex"
+* located on both sides of the thalamus, under the medial temporal lobe.
+
+---
+
 ### Areas
 
 ACC:  anterior cingulate cortex
