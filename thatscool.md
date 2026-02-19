@@ -2,7 +2,11 @@
 
 ## February 2026
 
-[Freemocap](https://freemocap.org) uses a couple cameras to do realtime pose estimation and looks like fun. More interesting than that though is their [services policy](https://freemocap.org/services) - "Anything that can be infinitely and losslessly duplicated is free. Examples include code, videos, documentation, and so on. Anything that cannot be infinitely and losslessly duplicated costs money. Examples include labor, cloud services, physical equipment and so on." This reminded me of similar models I've encountered with projects like Samba and Prometheus where the software was free but byzantine and the maintainers sold consulting services which benefited from the software being utterly baffling, or Redhat selling openshift support (aka: a throat to choke). There's some kind of progression happening here but the specific milestones are not yet obvious to me.
+[Freemocap](https://freemocap.org) uses a couple cameras to do realtime pose estimation and looks like fun. More interesting than that though is their [services policy](https://freemocap.org/services).
+
+> "Anything that can be infinitely and losslessly duplicated is free. Examples include code, videos, documentation, and so on. Anything that cannot be infinitely and losslessly duplicated costs money. Examples include labor, cloud services, physical equipment and so on."
+
+This reminded me of similar models I've encountered with projects like Samba and Prometheus where the software was free but byzantine and the maintainers sold consulting services which benefited from the software being utterly baffling, or Redhat selling openshift support (aka: a throat to choke). There's some kind of progression happening here but the specific milestones are not yet obvious to me.
 
 [Hister](https://hister.org/) is a local searchable cache for your internet search results. That thing you searched for two days ago? Find it locally instead of wading through more ads and AI slop to Just Find The Thing. [Backstory](https://hister.org/posts/how-i-cut-my-google-search-dependence-in-half/).
 
