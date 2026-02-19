@@ -2,6 +2,8 @@
 
 ## February 2026
 
+[Freemocap](https://freemocap.org) uses a couple cameras to do realtime pose estimation and looks like fun. More interesting than that though is their [services policy](https://freemocap.org/services) - "Anything that can be infinitely and losslessly duplicated is free. Examples include code, videos, documentation, and so on. Anything that cannot be infinitely and losslessly duplicated costs money. Examples include labor, cloud services, physical equipment and so on." This reminded me of similar models I've encountered with projects like Samba and Prometheus where the software was free but byzantine and the maintainers sold consulting services which benefited from the software being utterly baffling, or Redhat selling openshift support (aka: a throat to choke). There's some kind of progression happening here but the specific milestones are not yet obvious to me.
+
 [Hister](https://hister.org/) is a local searchable cache for your internet search results. That thing you searched for two days ago? Find it locally instead of wading through more ads and AI slop to Just Find The Thing. [Backstory](https://hister.org/posts/how-i-cut-my-google-search-dependence-in-half/).
 
 Lateley there seem to be a lot of chatter about wireguard, tailscale, netbird, and other encrypt-all-my-traffic-and-let-me-pretend-the-interenet-a-LAN-party type solutions. [Nebula](https://github.com/DefinedNet/nebula) looks to be a bit more interesting. [Spun out of Slack](https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack/) by the team that built it for them, they claim to be built from the same cryptographic primitives developed by Moxie Marlinspike et. al for use with Signal.
