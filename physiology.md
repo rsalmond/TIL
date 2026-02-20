@@ -11,13 +11,15 @@
     * considered a "purely motor" system
     * operates organs, smooth muscle (found in veins and organs), and glands
     * largely unconscious
-    * Sympathetic
+    * Sympathetic (SNS)
       * considered "antagonistic to the parasympathetic nervous system"
       * typically functions for actions which require quick responses
-      * fight-or-flight response
+      * fear, fight, flight, fucking
+        * AKA dumps acetylcholine, epinepherine, and norepinepherine into the body now and then
       * maintain homeostasis
-    * Parasympathetic
-      * stimulates "rest and digest" or "feed and breed"
+    * Parasympathetic (PNS)
+      * stimulates "rest and digest" or "feed and breed" (calm, vegetative states)
+        * dumps acetylcholine into the body now and then
       * considered "complementario to the sympathetic nervous system"
       * typically functions for actions which do not require immediate action
       * salivation
