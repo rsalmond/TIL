@@ -7,6 +7,7 @@
   * Somatic (AKA "Voluntary")
     * links the CNS to the skeletal muscles and sensory receptors
   * Autonomic (AKA "Visceral")
+    * includes midbrain & brainstem, along with their projections down the spine and to the body 
     * considered a "purely motor" system
     * operates organs, smooth muscle (found in veins and organs), and glands
     * largely unconscious
