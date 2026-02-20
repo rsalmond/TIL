@@ -30,14 +30,7 @@ Comprised of:
 * cerebral cortex (surface of the cerebrum)
 * subcortical structures (stuff under the surface)
 
-Divided into:
 
-* two hemispheres left/right
-* four lobes:
-  * frontal
-  * parietal (top & back)
-  * temporal (lower sides & back)
-  * occipital (back)
 
 #### Cerebellum: "little brain"
 
@@ -51,6 +44,28 @@ Limbic:
 * where the subcortical structures meet the cortex
 * influences endocrine and autonomic function
 * Sapolsky in "Behave" - "... the deeply held desire of every limbic structure (is) to influence the hypothalamus ..."
+* Hypothalamus:
+  * Sapolsky in "Behave" - "... it's the means by which the limbic system influences autonomic function ..."
+* Amygdala:
+  * bilateral structure (one in each hemisphere)
+  * surrounded by basolateral amygdala (BLA)
+    * this is where learned fear happens
+
+Cortex:
+* From latin `cortic` meaning "tree bark".
+* Sapolsky in "Behave" - "most sensory information flows here to be decoded"
+* NOT separate from limbic system: lots of axonal projections between the two
+  * Sapolsky in "Behave" - "In different circumstances the frontal cortex and limbic system stimulate or inhibit each other ... It really is an honourary member of the limbic system."
+* two hemispheres left/right
+* four lobes separated by fissures or "sulci" / "sulcus"
+  * frontal
+    * separated from parietal by central sulcus
+    * separated from temporal by sylvian sulcus 
+  * parietal (top & back)
+    * separated from occipital by occipital sulcus
+  * temporal (lower sides & back)
+    * separated from occipital by exoccipital sulcus
+  * occipital (back)
 
 
 ---
