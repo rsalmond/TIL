@@ -48,6 +48,10 @@ Divided into:
 Limbic:
 * aka "paleomammalian cortex"
 * located on both sides of the thalamus, under the medial temporal lobe.
+* where the subcortical structures meet the cortex
+* influences endocrine and autonomic function
+* Sapolsky in "Behave" - "... the deeply held desire of every limbic structure (is) to influence the hypothalamus ..."
+
 
 ---
 
