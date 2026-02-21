@@ -47,41 +47,56 @@ Limbic:
 * Hypothalamus:
   * Sapolsky in "Behave" - "... it's the means by which the limbic system influences autonomic function ..."
 * Amygdala:
+  * Sapolsky in "Behave" - "the most important theme is the amygdala's dual role in aggression and facets of fear and anxiety." 
   * bilateral structure (one in each hemisphere)
   * surrounded by basolateral amygdala (BLA)
+    * sensory systems send projections here 
     * this is where learned fear happens
+* Hippocampus:
+  * memory, spatial navigation
+  * Sapolsky "Behave" - "the hippocampus decides whether a factoid is worth filing away, depending on whether the amygdala has gotten worked up over it."  
+
+---
 
 Cortex:
 * From latin `cortic` meaning "tree bark".
 * Sapolsky in "Behave" - "most sensory information flows here to be decoded"
 * NOT separate from limbic system: lots of axonal projections between the two
   * Sapolsky in "Behave" - "In different circumstances the frontal cortex and limbic system stimulate or inhibit each other ... It really is an honourary member of the limbic system."
+
 * two hemispheres left/right
+
 * four lobes separated by fissures or "sulci" / "sulcus"
-  * frontal
+  * frontal lobe
     * separated from parietal by central sulcus
-    * separated from temporal by sylvian sulcus 
-  * parietal (top & back)
+    * separated from temporal by sylvian sulcus
+    * further divided into
+      * lateral
+      * polar
+      * medial
+      * orbital (aka basal / medial)
+  * parietal lobe (top & back)
     * separated from occipital by occipital sulcus
-  * temporal (lower sides & back)
+  * temporal lobe (lower sides & back)
     * separated from occipital by exoccipital sulcus
-  * occipital (back)
+  * occipital lobe (back)
 
 
----
 
-### Areas
+frontal cortex - thin outer multifurrowed surface of the frontal lobe
+* motor cortex - top & sides, back towards parietal lobe
+* prefrontal cortex (PFC) - very front of the frontal cortex - evolutionarily newest part of the frontal cortex
+ * mPFC: medial PFC
+ * vmPFC: ventral medial
+ * rmPFC: rostromedial
+ * Insular Cortex - smaller cortex inside the lateral sulcus
+   * activates with amygdala when disgusted
 
-ACC:  anterior cingulate cortex
+ACC: anterior cingulate cortex (central to empathy)
  * sACC: subcallosal ACC
 
 MFC: medial frontal contex
  * rMFC: rostral
-
-PFC: prefrontal cortex
- * mPFC: medial PFC
- * vmPFC: ventral medial
- * rmPFC: rostromedial
 
 PCC: posterior cingulate cortex
 
