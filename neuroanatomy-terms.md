@@ -86,8 +86,14 @@ Cortex:
 frontal cortex - thin outer multifurrowed surface of the frontal lobe
 * motor cortex - top & sides, back towards parietal lobe
 * prefrontal cortex (PFC) - very front of the frontal cortex - evolutionarily newest part of the frontal cortex
+ * dlPFC: dorsolateral PFC
+   * Sapolsky in "Behave" - "The dlPFC is the decider of deciders, the most rational, cognitive, utilitarian, unsentimental part of the PFC. It's the most recently evolved part of the PFC and the last part to fully mature."
+   * cont'd "The functions of the dlPFC are **the essence of doing the harder thing**. It's the most active frontocortical region when someone forgoes an immediate reward for a bigger one later."
+   * cont'd "...humans with dlPFC damage are impaired in planning ... perseverate on strategies that offer immediate reward, and show poor executive control over their behaviour."
  * mPFC: medial PFC
  * vmPFC: ventral medial
+   * Sapolsky in "Behave" - This is the frontocortical region that the visionary neuroscientist Nauta made an honourary member of the limbic system because of its interconnections with it. Logically the vmPFC is all about the imact of emotion on decision making. And many of our best and worst behaviours involve interactions of the vmPFC with the limbic system and dlPFC."
+   * cont'd "...when making social / emotional decisions -- vmPFC patients just can't decide... people with vmPFC damage may know the meaning of negative feedback, but don't know the _feeling_ of it in their gut and thus don't shift behaviour."
  * rmPFC: rostromedial
  * Insular Cortex - smaller cortex inside the lateral sulcus
    * activates with amygdala when disgusted
