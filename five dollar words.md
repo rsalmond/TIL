@@ -146,6 +146,8 @@ Perspicacity: deep insight, penetrating discernment, shrewdness.
 
 Perspicuity: lucidity, being clear and easy to understand.
 
+Pertinacious: extremely persistent or unyielding.
+
 Popinjay: one who is fond of vain, empty small talk.
 
 Predicable: a characteristic which can be attributed to something.
@@ -167,6 +169,8 @@ Propitious: showing favourable signs, convenient, kindly.
 Protean: having the ability to assume different forms, displaying great diversity.
 
 Rapproach: establish friendly relations between two opposing groups.
+
+Ramification: the act of dividing into branches, or a part extending from the body.
 
 Ramify: split into branches or constituent parts.
 
