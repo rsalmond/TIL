@@ -142,6 +142,8 @@ Perfervid: intense and impassioned.
 
 Peripatetic: travelling from place to place, especially for work.
 
+Perseverate: repeat continually, particularly referring to involuntary behaviour or thoughts.
+
 Perspicacity: deep insight, penetrating discernment, shrewdness.
 
 Perspicuity: lucidity, being clear and easy to understand.
