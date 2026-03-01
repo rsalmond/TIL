@@ -23,16 +23,31 @@ neural circuit: network of interconnected neurons, can span multiple brain regio
 
 ### Broadly Speaking
 
-#### Cerebrum: "brain"
-
-Comprised of:
-
+#### Cerebrum (telencephalon / endbrain)
 * cerebral cortex (surface of the cerebrum)
 * subcortical structures (stuff under the surface)
+  * hippocampus
+  * basal ganglia
+  * olfactory bulb
 
 
+#### Brainstem
+ * connects cerebrum to the spinal cord
+ * comprised of
+   * midbrain
+   * pons
+   * medulla
 
-#### Cerebellum: "little brain"
+#### Midbrain (mesencephalon)
+* connects diencephalon and cerebrum with the pons
+* comprised of
+  * tegmuntum AKA ventral tegmental area (ventral part of the midbrain)
+  * tectum (dorsal part of the midbrain)
+
+#### Hindbrain (rhombencephalon)
+* Pons
+* Medulla
+* Cerebellum: "little brain"
 
 ---
 
