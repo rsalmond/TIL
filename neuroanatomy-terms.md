@@ -42,12 +42,33 @@ neural circuit: network of interconnected neurons, can span multiple brain regio
 * connects diencephalon and cerebrum with the pons
 * comprised of
   * tegmuntum AKA ventral tegmental area (ventral part of the midbrain)
+    * projects to nucleus accumbens and limbic areas (amygdala, hippocampus) - known as "mesolimbic dopamine pathway"
+    * projects to PFC - known as "mesocortical dopamine pathway"
   * tectum (dorsal part of the midbrain)
 
 #### Hindbrain (rhombencephalon)
 * Pons
 * Medulla
 * Cerebellum: "little brain"
+
+---
+
+Subsections
+
+#### Basal Ganglia
+* group of subcortical neuron clusters (nuclei) located at the base of the forebrain / top of the midbrain.
+* striatum
+  * dorsal striatum
+    * caudate nucleus
+    * putamen
+  * ventral striatum
+    * nucleus accumbens
+    * olfactory tubercle
+  * globus pallidus
+  * ventral pallidum
+  * substantia nigra
+  * subthalmic nucleus
+
 
 ---
 
