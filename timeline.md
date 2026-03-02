@@ -75,13 +75,23 @@ We are currently in the Phanerozoic Eon, Cenozoic Era, Quaternery Period, Holoce
 
 ## Bronze Age 3300 - 1200 BCE
 
+## 400 BCE
+
+* Democritus argues the idea of "Atomos" - an indivisible building block of matter.
+
 ## 300 BCE
 
 * 336 BCE Alexander The Great takes throne of the Greek city of Macedon.
 
-## 400 BCE
+## 200 BCE
 
-* Democritus argues the idea of "Atomos" - an indivisible building block of matter.
+* Aristarchus theorizes the heliocentric model of the universe.
+
+## 100 BCE
+
+* ~150 BCE Ptolemy writes [The Algamest](https://en.wikipedia.org/wiki/Almagest) cementing the geocentric model of the universe.
+
+---
 
 ### 400 CE
 
