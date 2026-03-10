@@ -1,5 +1,9 @@
 # Cool Things
 
+## March 2026
+
+[filestash](https://github.com/mickael-kerjean/filestash) is self hosted google drive supporting numerous backends, with knobs on.
+
 ## February 2026
 
 [Freemocap](https://freemocap.org) uses a couple cameras to do realtime pose estimation and looks like fun. More interesting than that though is their [services policy](https://freemocap.org/services).
