@@ -4,6 +4,8 @@
 
 [filestash](https://github.com/mickael-kerjean/filestash) is self hosted google drive supporting numerous backends, with knobs on.
 
+[mactop](https://github.com/metaspartan/mactop) is `top` with deep apple silicon integration and gpu monitoring
+
 ## February 2026
 
 [Freemocap](https://freemocap.org) uses a couple cameras to do realtime pose estimation and looks like fun. More interesting than that though is their [services policy](https://freemocap.org/services).
