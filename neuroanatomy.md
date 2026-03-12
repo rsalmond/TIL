@@ -38,6 +38,19 @@ neural circuit: network of interconnected neurons, can span multiple brain regio
    * pons
    * medulla
 
+#### Diencephalon
+* Thalamus (egg shaped "inner room")
+ * information coming into the brain relays through here 
+ * VPL: ventral posterolatoral nucleus
+   * sensory input
+ * LGN: lateral geniculate nucleus
+   * visual input
+ * MGN: median geniculate nucleus
+   * auditory input   
+ * VPM: ventral posteromedial nucleus
+ * VIM: ventral intermediate nucleus
+* Hypothalamus:
+
 #### Midbrain (mesencephalon)
 * connects diencephalon and cerebrum with the pons
 * comprised of
@@ -144,11 +157,6 @@ MFC: medial frontal contex
 PCC: posterior cingulate cortex
 
 Inferior Parietal Lobule
-
-Thalamus:
- * VPL: ventral posterolatoral nucleus
- * VPM: ventral posteromedial nucleus
- * ventral intermediate nucleus
 
 ---
 
