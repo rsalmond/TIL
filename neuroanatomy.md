@@ -132,7 +132,10 @@ Cortex:
     * separated from occipital by exoccipital sulcus
   * occipital lobe (back)
 
-
+Temporoparietal Junction (TPJ)
+* where temporal and parietal lobes meet
+* at the posterier end of the lateral sulcus (AKA Sylvia fissure)
+* plays a crucial role in self-other distinctions and Theory of Mind.
 
 frontal cortex - thin outer multifurrowed surface of the frontal lobe
 * motor cortex - top & sides, back towards parietal lobe
