@@ -76,7 +76,8 @@ Subsections
     * caudate nucleus
     * putamen
   * ventral striatum
-    * nucleus accumbens
+    * nucleus accumbens (NAc or NAcc - nucleus adjacent to the septum)
+      * part of the reward / Pavlovian reinforcement system. 
     * olfactory tubercle
   * globus pallidus
   * ventral pallidum
