@@ -132,6 +132,8 @@ Obeisance: a gesture of deference or homage.
 
 Onanistic: pertaining to masturbation.
 
+Parochial: narrowly restricted in scope.
+
 Patency: the condition of being open, expanded, or unobstructed.
 
 Penury: severe poverty, opperssive lack of resources.
