@@ -172,6 +172,8 @@ Propitious: showing favourable signs, convenient, kindly.
 
 Protean: having the ability to assume different forms, displaying great diversity.
 
+Quotidian: everyday, commonplace.
+
 Rapproach: establish friendly relations between two opposing groups.
 
 Ramification: the act of dividing into branches, or a part extending from the body.
