@@ -216,6 +216,8 @@ Sublate: deny or negate. Or: assimilate a smaller entity into a larger one.
 
 Syncretism: the practice of combining different beliefs and various schools of thought.
 
+Tarn: small mountain lake.
+
 Tsuris: (Yiddish) troubles.
  - someone who is beset by trouble is "af tsuris" or "on troubles"
  - someone taking a beating has "gehakte tsuris" or "chopped troubles"
