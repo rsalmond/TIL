@@ -118,6 +118,8 @@ Juridical: relating to judicial proceedings and the administration of law.
 
 Kibitz: chat, gab.
 
+Lachrymose: tearful, given to crying.
+
 Laity: lay people, as opposed to experts or professionals.
 
 Leonine: lion-like.
