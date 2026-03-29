@@ -126,6 +126,8 @@ Limerance: being madly in love while reciprocation is uncertain.
 
 Lucent: glowing.
 
+Munificent: generous.
+
 Numinous: having a strong spiritual or divine quality.
 
 Obeisance: a gesture of deference or homage.
