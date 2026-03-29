@@ -86,6 +86,8 @@ Gustation: the sesation of taste.
 
 Hagiography: biography of a saint.
 
+Hale: strong and healthy.
+
 Hidebound: unwilling to change because of tradition or convention.
 
 Heterodox: not conforming with accepted (orthodox) standards or beliefs.
