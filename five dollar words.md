@@ -30,6 +30,8 @@ Apotheosize: glorify, exalt.
 
 Apperception: perception of the self (Kantian). Or: assimilating a new experience through the lens of ones past experiences.
 
+Argot: jargon or slang of a particular group.
+
 Arrogation: to take or claim as one's own without right.
 
 Augur: portent of things to come.
