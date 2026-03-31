@@ -23,6 +23,9 @@ neural circuit: network of interconnected neurons, can span multiple brain regio
 
 ### Broadly Speaking
 
+grey matter: indirect measure of total number of neurons & dendritic branches.
+white matter: indirect measure of myelenation of axons.
+
 #### Cerebrum (telencephalon / endbrain)
 * cerebral cortex (surface of the cerebrum)
 * subcortical structures (stuff under the surface)
