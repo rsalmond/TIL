@@ -59,6 +59,7 @@ white matter: indirect measure of myelenation of axons.
 * comprised of
   * tegmuntum AKA ventral tegmental area (ventral part of the midbrain)
     * projects to nucleus accumbens and limbic areas (amygdala, hippocampus) - known as "mesolimbic dopamine pathway"
+      * NOTE "meso" ~ "mesencephelon" ~ "middle"; "mesolimbic" ~ "from the midbrain to the limbic system".
     * projects to PFC - known as "mesocortical dopamine pathway"
     * Sapolsky in "Behave" - "In a task where one chooses between an immediate and a (larger) delayed reward, contemplating the immediate reward activitates the mesolimbic pathway (limbic targets of dopamine), whereas contemplating the delayed reward activates the mesocortical pathway. The greater the mesocortical activation, the more likely there will be gratification postponement."
   * tectum (dorsal part of the midbrain)
