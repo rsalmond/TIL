@@ -75,7 +75,7 @@ Subsections
 
 #### Basal Ganglia
 * group of subcortical neuron clusters (nuclei) located at the base of the forebrain / top of the midbrain.
-* striatum
+* striatum - largest part of basal ganglia
   * dorsal striatum
     * caudate nucleus
     * putamen
