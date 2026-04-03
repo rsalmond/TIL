@@ -98,6 +98,8 @@ Hoi polloi: literally "the many" or "the people", generally "the plebs", "the gr
 
 Hortatory: to encourage or strongly urge.
 
+Imbroglio: a confused or complex situation. a tangled mess.
+
 Immanent: inherent. Or: within the limits of possible experience or knowledge (opposite of transcendent).
 
 Impugn: dispute the truth, honesty, or validity of a statement. call into question.
