@@ -20,8 +20,12 @@ Distance that light travels in one Planck time, or put another way the speed of 
 
 ## Proton
 
-The CODATA recommended value: 8.4075(64) × 10<sup>−16</sup> meters
+The CODATA recommended value: 8.4075 x 10<sup>−16</sup> meters
 
+## Atomic Radius of Hydrogen
+
+52.9 x 10<sup>−12</sup> (52.9 picometers)
+  
 # Femtometer
 
 From the Danish "femten" for "fifteen".
