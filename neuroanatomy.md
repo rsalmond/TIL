@@ -41,34 +41,39 @@ white matter: indirect measure of myelenation of axons.
    * pons
    * medulla
 
-#### Diencephalon
-* Thalamus (egg shaped "inner room")
- * information coming into the brain relays through here 
- * VPL: ventral posterolatoral nucleus
-   * sensory input
- * LGN: lateral geniculate nucleus
-   * visual input
- * MGN: median geniculate nucleus
-   * auditory input   
- * VPM: ventral posteromedial nucleus
- * VIM: ventral intermediate nucleus
-* Hypothalamus:
+### Vesicles
 
-#### Midbrain (mesencephalon)
-* connects diencephalon and cerebrum with the pons
-* comprised of
-  * tegmuntum AKA ventral tegmental area (ventral part of the midbrain)
-    * projects to nucleus accumbens and limbic areas (amygdala, hippocampus) - known as "mesolimbic dopamine pathway"
-      * NOTE "meso" ~ "mesencephelon" ~ "middle"; "mesolimbic" ~ "from the midbrain to the limbic system".
-    * projects to PFC - known as "mesocortical dopamine pathway"
-    * Sapolsky in "Behave" - "In a task where one chooses between an immediate and a (larger) delayed reward, contemplating the immediate reward activitates the mesolimbic pathway (limbic targets of dopamine), whereas contemplating the delayed reward activates the mesocortical pathway. The greater the mesocortical activation, the more likely there will be gratification postponement."
-  * tectum (dorsal part of the midbrain)
-
-#### Hindbrain (rhombencephalon)
-* Pons
-* Medulla
-* Cerebellum: "little brain"
-
+* Forebrain / Prosencephalon
+  * Telencephalon
+  * Interbrain / Diencephalon
+    * thalamus (egg shaped "inner room") TODO correct subhierarchy here!
+      * information coming into the brain relays through here 
+      * VPL: ventral posterolatoral nucleus
+        * sensory input
+      * LGN: lateral geniculate nucleus
+        * visual input
+      * MGN: median geniculate nucleus
+        * auditory input   
+      * VPM: ventral posteromedial nucleus
+      * VIM: ventral intermediate nucleus 
+         * hypothalamus
+         * subthalamus
+         * epithalamus
+* Midbrain / Mesencephalon
+  * connects diencephalon and cerebrum with the pons
+  * comprised of
+    * tegmuntum AKA ventral tegmental area (ventral part of the midbrain)
+      * projects to nucleus accumbens and limbic areas (amygdala, hippocampus) - known as "mesolimbic dopamine pathway"
+        * NOTE "meso" ~ "mesencephelon" ~ "middle"; "mesolimbic" ~ "from the midbrain to the limbic system".
+      * projects to PFC - known as "mesocortical dopamine pathway"
+      * Sapolsky in "Behave" - "In a task where one chooses between an immediate and a (larger) delayed reward, contemplating the immediate reward activitates the mesolimbic pathway (limbic targets of dopamine), whereas contemplating the delayed reward activates the mesocortical pathway. The greater the mesocortical activation, the more likely there will be gratification postponement."
+    * tectum (dorsal part of the midbrain)
+* Hindbrain / Rhombencephalon
+  * Metencephalon
+    * Pons
+    * Cerebellum: "little brain"
+  * Myelencephalon
+    * Medulla
 ---
 
 Subsections
