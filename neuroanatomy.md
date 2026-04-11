@@ -63,6 +63,7 @@ white matter: indirect measure of myelenation of axons.
   * connects diencephalon and cerebrum with the pons
   * comprised of
     * tegmuntum AKA ventral tegmental area (ventral part of the midbrain)
+      * contains periaqueductal gray
       * projects to nucleus accumbens and limbic areas (amygdala, hippocampus) - known as "mesolimbic dopamine pathway"
         * NOTE "meso" ~ "mesencephelon" ~ "middle"; "mesolimbic" ~ "from the midbrain to the limbic system".
       * projects to PFC - known as "mesocortical dopamine pathway"
