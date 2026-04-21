@@ -118,6 +118,8 @@ Inutile: useless.
 
 Inveterate: long established, chronic.
 
+Invidious: offensive and unfair, tending to rouse animosity or ill will.
+
 Itinerant: someone who alternates between travel/wandering and work.
 
 Juridical: relating to judicial proceedings and the administration of law.
