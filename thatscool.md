@@ -1,5 +1,9 @@
 # Cool Things
 
+## April 2026
+
+[gecit](https://github.com/boratanrikulu/gecit) bypasses DPI by doing an eBPF powered version of the HTTP request smuggling attack on TLS handshakes. Send a benign TLS client hello first with a low TTL to satisfy the DPI into allowing the connection to continue. TTL drops just beyond the DPI machine. Then the real TLS client hello to the blocked site goes out over the now permitted connection. Author even made it work on MacOS and Windows with some [dirty hacks](https://bora.sh/bypassing-dpi-with-ebpf/).
+
 ## March 2026
 
 [filestash](https://github.com/mickael-kerjean/filestash) is self hosted google drive supporting numerous backends, with knobs on.
