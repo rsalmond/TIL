@@ -13,8 +13,12 @@
   * If the sugar is ribose, the nucleotide polymerises into RNA, if it's deoxyribose, you get DNA.
 * Oligonucleotide - short (fewer than 20) polymer of nucleotides.
 * Polynucleotide - longer polymer.
-* Gene - a nucleotide sequence which transcribes to produce functional RNA.
-  * "Gene expression" is the synthesis of RNA or a protein from DNA.
+* Gene - a nucleotide sequence.
+  * Coding gene: gene which transcribes to produce functional RNA.
+    * "Gene expression" is the synthesis of RNA or a protein from DNA.
+    * "exons" - stretches of coding DNA separated by noncoding "intron" stretches of DNA.
+      * "Many genes are broken into numerous exons ... RNA copies of the gene initially contain exons and introns; then an enzyme removes the intronic parts and splices together the exons" - Sapolsky in "Behave".
+  * Noncoding gene: gene which does not transcribe to RNA.
 * Nucleic Acid - DNA or RNA.
 * Nucleosome - Complex consisting of 1.65 turns (~147 base pairs) of DNA wrapped around eight histones (histone octamer) resembling a spool of thread.
 * Chromatin - Complex consisting of DNA and a histone complex which wraps long DNA polymers around histones forming dense, compact structures to prevent them from becoming tangled.
