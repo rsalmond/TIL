@@ -222,6 +222,8 @@ Stricture: restriction, rule. Or: sternly critical remark.
 
 Sublate: deny or negate. Or: assimilate a smaller entity into a larger one.
 
+Sybarite: one who engages in excessive pleasure seeking and indulgence.
+
 Syncretism: the practice of combining different beliefs and various schools of thought.
 
 Tarn: small mountain lake.
