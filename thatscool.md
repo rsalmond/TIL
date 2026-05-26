@@ -2,6 +2,8 @@
 
 ## May 2026
 
+Make your own Star Trek episode title cards using [this thing](https://trek.epicrandomness.com/#editor)
+
 The biggest PITA of H2 is that the ergonomics of debugging sucks in comparison to just curling a JSON endpoint. [This post](https://www.clarityboss.com/blog/go-http2-cleartext-h2c-cloud-run) describes how to use HTTP2 in Golang and Google Cloudrun while forcing it to operate in cleartext (not the TLS default).
 
 [rbw](https://github.com/doy/rbw) is a bitwarden CLI that looks like it doesn't suck.
