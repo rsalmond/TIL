@@ -67,6 +67,8 @@ We are currently in the Phanerozoic Eon, Cenozoic Era, Quaternery Period, Holoce
 * End of the Stone Age.
 * Beginning of Early Modern Humans.
 
+* Animal domestication 10kya - 20kya
+
 ## Holocene 11.7 kya
 
 * End of the Last Glacial Period.
