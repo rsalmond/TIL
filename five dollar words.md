@@ -40,6 +40,8 @@ Avuncular: a literal uncle, or one who is uncle-like.
 
 Bulwark: strong support or protection, wall-like structure raised for defense.
 
+Canard: false, unfounded, or fabricated report. groundless rumour or belief.
+
 Caprice: a sudden, unpredictable change or action.
 
 Casuistry: specious reasoning.
