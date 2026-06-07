@@ -1,5 +1,19 @@
 # Cool Things
 
+## June 2027
+
+On HN today we find [ntsc.rs](https://ntsc.rs), a video plugin that makes stuff look old and analog. [Someone in the comments writes](https://news.ycombinator.com/item?id=48428623):
+
+> I don't think I've ever seen one of these TV emulator things implement the situation where the vertical oscillator was slightly wrong and you get the picture slowly looping up the screen.
+
+Naturally [the reply](https://news.ycombinator.com/item?id=48429100):
+
+> [This one does](https://github.com/LMP88959/NTSC-CRT)
+
+Frame goes in, NTSC-ified frame comes out. The [youtube demo](https://youtu.be/ucfPRtV6--c) is pretty great. Apparently people have hooked this library [directly into their NES emulators](https://github.com/LMP88959/NTSC-CRT#emulators) for [maximum 80's experience](https://github.com/L-Spiro/BeesNES#visual-samples).
+
+But then another commenter drops [hacktv](https://codeberg.org/fsphil/hacktv) which I didn't really understand until I clicked through to [this GUI](https://github.com/steeviebops/hacktv-gui) somebody wrote for it and looked at [the output docs](https://github.com/steeviebops/hacktv-gui/wiki/The-interface#output-tab) which make it clear that hacktv basically turns a cheap USB radio device into a UHF broadcast setup so now all I need is a [HackRF](https://greatscottgadgets.com/hackrf/one/) and a [Max Headroom mask](https://en.wikipedia.org/wiki/Max_Headroom_signal_hijackings) to fulfill my teenaged cyberpunk fantasies.
+
 ## May 2026
 
 [forge](https://github.com/git-pkgs/forge) is a CLI akin to `gh` that works with github, forgejo, gitlab, and others.
