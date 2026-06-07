@@ -2,6 +2,10 @@
 
 ## June 2027
 
+[This redditor](https://old.reddit.com/r/neuro/comments/1tyfydj/the_lack_of_a_proper_brain_map_drove_me_nuts_when/) built Brain Atlas, an [open source](https://github.com/itayinbarr/brainproject) [interactive 3d brain model](https://itayinbarr.github.io/brainproject/) for studying neuroanatomy.
+
+---
+
 On HN today we find [ntsc.rs](https://ntsc.rs), a video plugin that makes stuff look old and analog. [Someone in the comments writes](https://news.ycombinator.com/item?id=48428623):
 
 > I don't think I've ever seen one of these TV emulator things implement the situation where the vertical oscillator was slightly wrong and you get the picture slowly looping up the screen.
