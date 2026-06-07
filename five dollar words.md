@@ -36,6 +36,8 @@ Arrogation: to take or claim as one's own without right.
 
 Augur: portent of things to come.
 
+Autopoiesis: from the green auto (self) poiesis (creation / production) - refers to a system capable of producing and maintaining itself by creating its own parts.
+
 Avuncular: a literal uncle, or one who is uncle-like.
 
 Bulwark: strong support or protection, wall-like structure raised for defense.
