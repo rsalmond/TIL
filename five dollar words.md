@@ -144,6 +144,8 @@ Lucent: glowing.
 
 Munificent: generous.
 
+Nidus: nest or breeding place, place where something originates.
+
 Numinous: having a strong spiritual or divine quality.
 
 Obeisance: a gesture of deference or homage.
