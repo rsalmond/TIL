@@ -56,6 +56,8 @@ Conspecific: a member of the same species.
 
 Dead letter: law or treaty that has not been repealed but which is defunct in practice.
 
+Détente: easing of tension between rivals.
+
 Diurnal: daily.
 
 Efferent: conveying away from the center.
