@@ -146,6 +146,8 @@ Lucent: glowing.
 
 Munificent: generous.
 
+Neoteny: the delaying or slowing of maturation.
+
 Nidus: nest or breeding place, place where something originates.
 
 Numinous: having a strong spiritual or divine quality.
