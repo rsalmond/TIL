@@ -160,6 +160,8 @@ Onanistic: pertaining to masturbation.
 
 Parochial: narrowly restricted in scope.
 
+Paroxysm: sudden outburst, spasm, or convulsion.
+
 Patency: the condition of being open, expanded, or unobstructed.
 
 Penury: severe poverty, opperssive lack of resources.
