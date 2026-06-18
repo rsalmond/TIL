@@ -180,6 +180,8 @@ Perspicuity: lucidity, being clear and easy to understand.
 
 Pertinacious: extremely persistent or unyielding.
 
+Polysemous: having multiple meanings or interpretations.
+
 Popinjay: one who is fond of vain, empty small talk.
 
 Predicable: a characteristic which can be attributed to something.
