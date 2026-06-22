@@ -1,3 +1,7 @@
+## Visualizations
+
+https://itayinbarr.github.io/brainproject/
+
 ## Oversimplified Terminology
 
 Note: assumes we're talking human heads.
