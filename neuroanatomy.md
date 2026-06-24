@@ -171,7 +171,8 @@ frontal cortex - thin outer multifurrowed surface of the frontal lobe
    * activates with amygdala when disgusted
 
 ACC: anterior cingulate cortex (central to empathy)
- * sACC: subcallosal ACC
+ * sACC: subcallosal / rostral ACC (broadman 25) - leans to affect & limbic
+ * dACC: dorsal / caudal ACC - leans to cognitive control & salience
 
 MFC: medial frontal contex
  * rMFC: rostral
@@ -182,7 +183,7 @@ Inferior Parietal Lobule
 
 ---
 
-### Networks
+### Networks (the big ones)
 
 Salience Network
 - AKA "midcingulo-insular network" (M-CIN)
@@ -197,7 +198,7 @@ Central Executive Network CEN
 - AKA "frontoparietal network" FPN
 - AKA "lateral frontoparietal network" L-FPN
 - composed of
-  - dorsolateral prefrontal cortex dPFC
+  - dorsolateral prefrontal cortex dlPFC
     - particularly the middle frontal gyrus
   - anterior inferior parietal lobule
   - cingulate gyrus
@@ -212,4 +213,15 @@ Default Mode Network
   - posterior cingulate cortex (PCC)
   - precuneus
   - angular gyrus
+
+### Networks (less formal ones)
+
+Mesocortical Limbic Network
+- AKA reward system
+- AKA valuation system
+- Sapolsky in "Behave" "This network is mobilized during reinforcement learning, where you modify your behaivour when there is a mismatch between what you expected to happen and what actually did".
+- composed of
+  - ventromedial prefrontal cortex (vmPFC)
+  - subcallosal (below the callosum AKA subgenual AKA rostral) anterior cingulate cortex (ACC)
+  - nucleus accumbens (NAcc)
 
