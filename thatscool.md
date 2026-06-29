@@ -2,6 +2,8 @@
 
 ## June 2027
 
+[LockIME](https://github.com/oomol-lab/LockIME) prevents your mac from changing your keyboard layout. Surprisingly useful for anyone who types in another language, many apps like to just yank the fucking rug out from under your fingertips.
+
 [This redditor](https://old.reddit.com/r/neuro/comments/1tyfydj/the_lack_of_a_proper_brain_map_drove_me_nuts_when/) built Brain Atlas, an [open source](https://github.com/itayinbarr/brainproject) [interactive 3d brain model](https://itayinbarr.github.io/brainproject/) for studying neuroanatomy.
 
 ---
