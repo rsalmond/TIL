@@ -76,6 +76,8 @@ Eschatology: theological views on death, judgement, the destiny of the soul, and
 
 Esemplastic: shaping of disparate things into a unified whole.
 
+Exaptation: finding new evolutionary uses for a trait that was originally evolved for something else.
+
 Exegesis: critical explanation or interpretation of a text.
 
 Exhortatory: strongly encouraging or persuading.
