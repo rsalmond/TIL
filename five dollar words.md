@@ -2,6 +2,8 @@
 
 Abjure: solemnly renounce.
 
+Abstruce: difficult to understand.
+
 Adduce: to offer as evidence, to cite as proof.
 
 Adumbrate: represent in outline, faintly indicate, foreshadow or symbolize.
