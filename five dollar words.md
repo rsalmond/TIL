@@ -168,6 +168,8 @@ Paroxysm: sudden outburst, spasm, or convulsion.
 
 Patency: the condition of being open, expanded, or unobstructed.
 
+Pellucid: transparent, clear.
+
 Penury: severe poverty, opperssive lack of resources.
 
 Perdititon: hell, damnation.
