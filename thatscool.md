@@ -1,6 +1,10 @@
 # Cool Things
 
-## June 2027
+## August 2026
+
+[Cryptomator](https://github.com/cryptomator/cryptomator) adds a seamless encryption layer between you and your cloud storage (dropbox, google drive, etc). If somebody hacks your dropbox, they can't read your shit.
+
+## June 2026
 
 [LockIME](https://github.com/oomol-lab/LockIME) prevents your mac from changing your keyboard layout. Surprisingly useful for anyone who types in another language, many apps like to just yank the fucking rug out from under your fingertips.
 
