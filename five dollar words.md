@@ -36,6 +36,8 @@ Argot: jargon or slang of a particular group.
 
 Arrogation: to take or claim as one's own without right.
 
+Atavistic: related to old habits, associated with one's primitive ancestors.
+
 Augur: portent of things to come.
 
 Autopoiesis: from the green auto (self) poiesis (creation / production) - refers to a system capable of producing and maintaining itself by creating its own parts.
