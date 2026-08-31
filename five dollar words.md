@@ -108,7 +108,7 @@ Hidebound: unwilling to change because of tradition or convention.
 
 Heterodox: not conforming with accepted (orthodox) standards or beliefs.
 
-Hoi polloi: literally "the many" or "the people", generally "the plebs", "the great unwashed".
+Hoi polloi (greek): literally "the many" or "the people", generally "the plebs", "the great unwashed".
 
 Holobiont: a collection of closely interacting species which form a discrete ecological unit.
 
