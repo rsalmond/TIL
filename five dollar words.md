@@ -236,6 +236,8 @@ Riven: split into pieces or factions.
 
 Sagacious: insightful, posessing keen understanding.
 
+Salutary: favourable to health, wholesome, improves or remediates.
+
 Scabrous: rough to the touch or salacious / scandalous.
 
 Sclerotic: rigid, unresponsive, unable to adapt.
