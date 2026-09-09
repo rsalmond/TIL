@@ -46,6 +46,8 @@ Autopoiesis: from the green auto (self) poiesis (creation / production) - refers
 
 Avuncular: a literal uncle, or one who is uncle-like.
 
+Bellicose: belligerant, warlike.
+
 Bulwark: strong support or protection, wall-like structure raised for defense.
 
 Canard: false, unfounded, or fabricated report. groundless rumour or belief.
