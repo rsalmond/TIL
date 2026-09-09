@@ -14,6 +14,8 @@ Afferent: conveying towards the center
 
 Afflatus: strong creative impulse, divine inspiration.
 
+Agitprop: political propaganda.
+
 Aleatory: dependant on chance, or an uncertain outcome.
 
 Allotrope: an element which exists in multiple forms (eg. dioxygen O2 and ozone O3).
