@@ -1,5 +1,9 @@
 # Cool Things
 
+## September 2026
+
+[jgrep](https://github.com/keltokhy/jgrep) is grep but the pattern is a description instead of a regex. Calls out to a decision making (rather than token producing) model called jev.
+
 ## August 2026
 
 [Cryptomator](https://github.com/cryptomator/cryptomator) adds a seamless encryption layer between you and your cloud storage (dropbox, google drive, etc). If somebody hacks your dropbox, they can't read your shit.
