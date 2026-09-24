@@ -68,6 +68,8 @@ Détente: easing of tension between rivals.
 
 Diurnal: daily.
 
+Docent: lecturer or guide at a college, university, or museum.
+
 Efferent: conveying away from the center.
 
 Effete: no longer fertile, having lost vitality, marked by weakness or decadence.
