@@ -75,7 +75,11 @@ We are currently in the Phanerozoic Eon, Cenozoic Era, Quaternery Period, Holoce
 * Neolithic revolution (AKA beginning of civilization)
    * Agricultural revolution, end of hunter gatherer period.
 
+## Copper Age 4000 - 2000 BCE
+
 ## Bronze Age 3300 - 1200 BCE
+
+## Iron Age 1200 - 586 BCE
 
 ## 400 BCE
 
